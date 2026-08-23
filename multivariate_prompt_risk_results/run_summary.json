@@ -1,0 +1,31 @@
+{
+  "rows": 680,
+  "unique_cases": 170,
+  "positive": 314,
+  "negative": 366,
+  "main_prompt_features": [
+    "ps_domain_explicit_security",
+    "ps_security_relevant_domain_count",
+    "ps_domain_database",
+    "ps_domain_command_exec",
+    "ps_domain_auth",
+    "ps_domain_permissions",
+    "ps_identifier_density",
+    "ps_numeric_density",
+    "ps_bullet_count",
+    "ps_constraint_count"
+  ],
+  "control_numeric": [
+    "ps_chars",
+    "ps_lines",
+    "ps_words"
+  ],
+  "control_categorical": [
+    "model"
+  ],
+  "logistic_mle_converged": true,
+  "runs": 30,
+  "base_seed": 42,
+  "split": "80/20 GroupShuffleSplit grouped by case",
+  "note": "Adjusted ORs are associative, not causal. Predictive evaluation keeps all rows from the same case in the same split."
+}

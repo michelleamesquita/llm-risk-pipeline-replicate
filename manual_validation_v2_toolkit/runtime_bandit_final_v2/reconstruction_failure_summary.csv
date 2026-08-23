@@ -1,0 +1,5 @@
+model,stage,n_failures
+claude,STRICT_APPLY_CHECK_FAILED,7
+codellama-tuned,STRICT_APPLY_CHECK_FAILED,23
+deepseek,STRICT_APPLY_CHECK_FAILED,6
+gpt-4o,STRICT_APPLY_CHECK_FAILED,6

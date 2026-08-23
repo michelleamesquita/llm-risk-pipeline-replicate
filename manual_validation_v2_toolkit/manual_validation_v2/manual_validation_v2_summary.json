@@ -1,0 +1,26 @@
+{
+  "original_rows_in_blinded": 120,
+  "new_findings_kept_all": 27,
+  "control_candidates_before_dedup": 93,
+  "control_unique_equivalence_groups": 53,
+  "controls_selected": 53,
+  "final_review_items": 80,
+  "target_size_requested": 80,
+  "seed": 42,
+  "context_status_v2": {
+    "BEFORE_AFTER_DIFF": 80
+  },
+  "line_mapping_relation": {
+    "UNCHANGED_OUTSIDE_DIFF_NO_FULL_BEFORE_FILE": 71,
+    "CONTEXT_LINE_IN_HUNK_NO_FULL_BEFORE_FILE": 9
+  },
+  "blinded_fields_removed": [
+    "model",
+    "severity",
+    "Bandit confidence",
+    "is_new_finding",
+    "existed_before",
+    "sample_group",
+    "LR/RF scores"
+  ]
+}

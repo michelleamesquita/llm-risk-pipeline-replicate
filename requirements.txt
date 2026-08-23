@@ -1,0 +1,8 @@
+replicate
+pyyaml
+pandas
+numpy
+scipy
+scikit-learn
+tiktoken
+bandit

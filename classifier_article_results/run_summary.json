@@ -1,0 +1,26 @@
+{
+  "rows": 680,
+  "unique_cases": 170,
+  "positive": 314,
+  "negative": 366,
+  "target": "has_finding_after",
+  "runs_requested": 30,
+  "runs_completed": 30,
+  "split": "80/20 GroupShuffleSplit by case",
+  "base_seed": 42,
+  "models": {
+    "logistic_regression": {
+      "role": "baseline"
+    },
+    "random_forest": {
+      "role": "main",
+      "n_estimators": 100,
+      "max_depth": 15,
+      "class_weight": "balanced"
+    }
+  },
+  "temperature_features_removed": true,
+  "reason_temperature_removed": "temperature/top_p/top_k are not uniformly exposed by all Replicate endpoints in the current experiment",
+  "shap_generated": false,
+  "shap_error": "shap n\u00e3o instalado"
+}

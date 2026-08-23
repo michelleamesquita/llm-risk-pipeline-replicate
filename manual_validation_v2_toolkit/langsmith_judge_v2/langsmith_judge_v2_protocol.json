@@ -1,0 +1,17 @@
+{
+  "dataset_name": "bandit-validation-v2-20260818-001804",
+  "dataset_id": "ca4eb693-3ba3-42e0-bc1a-cb9e9d18276f",
+  "judge_model": "gpt-4o",
+  "n_items": 80,
+  "blinded_fields": [
+    "model",
+    "severity",
+    "Bandit confidence",
+    "is_new_finding",
+    "existed_before",
+    "LR/RF score",
+    "human labels"
+  ],
+  "primary_reference": "human review",
+  "role_of_llm_judge": "complementary agreement/scalability analysis"
+}

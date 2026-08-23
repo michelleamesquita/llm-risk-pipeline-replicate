@@ -1,0 +1,5 @@
+model,attempts,successful_repos,target,success_rate
+claude,17,10,10,0.5882352941176471
+codellama-tuned,33,10,10,0.30303030303030304
+deepseek,16,10,10,0.625
+gpt-4o,16,10,10,0.625

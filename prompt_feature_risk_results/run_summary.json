@@ -1,0 +1,11 @@
+{
+  "rows": 680,
+  "unique_cases": 170,
+  "target": "has_finding_after",
+  "positive": 314,
+  "negative": 366,
+  "n_features_analyzed": 49,
+  "n_features_fdr_lt_0_05": 11,
+  "feature_prefix": "ps_",
+  "interpretation_note": "Associations are not causal. RR/OR indicate association between prompt-derived features and observed SAST findings."
+}

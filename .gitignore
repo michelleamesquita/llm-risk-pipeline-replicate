@@ -1,0 +1,20 @@
+# Archives
+*.zip
+*.ZIP
+
+# Tests
+/test/
+/tests/
+
+# Experiment runs (somente na raiz)
+/runs/
+/runs_*/
+
+# Python / local env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.DS_Store

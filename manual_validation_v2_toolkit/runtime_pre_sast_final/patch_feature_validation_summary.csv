@@ -1,0 +1,8 @@
+feature,n,n_exact_match,exact_match_rate
+patch_lines,680,680,1.0
+patch_added,680,680,1.0
+patch_removed,680,680,1.0
+patch_files_touched,680,668,0.9823529411764705
+patch_hunks,680,680,1.0
+patch_churn,680,680,1.0
+patch_net,680,680,1.0

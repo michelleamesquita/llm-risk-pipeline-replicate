@@ -1,0 +1,80 @@
+{
+  "repo_src": "/Users/mac/Downloads/llm_risk_pipeline_replicate/data/swe-bench/repos/django",
+  "base_commit": "1a78ef2b85467a18ea6d7eaa4b27f67d11c87b9e",
+  "patch_file": "/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-15698.patch",
+  "out_repo": "/Users/mac/Downloads/manual_validation_v2_toolkit/.reconstruct_test/django__django-15698",
+  "touched_files": [
+    "django/template/base.py"
+  ],
+  "patch_files_touched": 1,
+  "patch_apply_success": true,
+  "apply_strategy": "patch --batch --forward --fuzz=5 -p1 -i",
+  "error": null,
+  "diff_repair": {
+    "normalization": {
+      "files_kept": 1,
+      "files_dropped": 0,
+      "hunks_kept": 1,
+      "hunks_dropped_noop": 0,
+      "hunks_dropped_empty": 0,
+      "hunks_recounted": 0,
+      "hunks_relocated": 0
+    },
+    "relocation": {
+      "files_kept": 1,
+      "files_dropped": 0,
+      "hunks_kept": 1,
+      "hunks_dropped_noop": 0,
+      "hunks_dropped_empty": 0,
+      "hunks_recounted": 0,
+      "hunks_relocated": 0,
+      "relocate_relocated": 0,
+      "relocate_already_correct": 0,
+      "relocate_not_found": 1,
+      "relocate_no_file": 0
+    }
+  },
+  "strict_patch_apply": false,
+  "fuzzy_patch_apply": true,
+  "apply_attempts": [
+    {
+      "cmd": "git apply --ignore-whitespace --recount -p1",
+      "returncode": 1,
+      "stderr": "error: patch failed: django/template/base.py:544\nerror: django/template/base.py: patch does not apply"
+    },
+    {
+      "cmd": "git apply --ignore-whitespace --recount -p0",
+      "returncode": 1,
+      "stderr": "error: a/django/template/base.py: No such file or directory"
+    },
+    {
+      "cmd": "git apply --ignore-whitespace -p1",
+      "returncode": 1,
+      "stderr": "error: patch failed: django/template/base.py:544\nerror: django/template/base.py: patch does not apply"
+    },
+    {
+      "cmd": "git apply --ignore-whitespace -p0",
+      "returncode": 1,
+      "stderr": "error: a/django/template/base.py: No such file or directory"
+    },
+    {
+      "cmd": "git apply -p1",
+      "returncode": 1,
+      "stderr": "error: patch failed: django/template/base.py:544\nerror: django/template/base.py: patch does not apply"
+    },
+    {
+      "cmd": "git apply -p0",
+      "returncode": 1,
+      "stderr": "error: a/django/template/base.py: No such file or directory"
+    },
+    {
+      "cmd": "patch --batch --forward --fuzz=5 -p1 -i",
+      "returncode": 0,
+      "stderr": "patching file 'django/template/base.py'"
+    }
+  ],
+  "actual_changed_files": [
+    "django/template/base.py"
+  ],
+  "actual_files_count": 1
+}

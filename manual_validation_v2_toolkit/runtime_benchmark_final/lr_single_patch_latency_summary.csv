@@ -1,0 +1,2 @@
+component,n,mean_ms,median_ms,q1_ms,q3_ms,iqr_ms,p95_ms,min_ms,max_ms
+lr_loaded_single_patch_score,3000,0.06459225733333333,0.0645,0.061125,0.066625,0.005500000000000005,0.071292,0.05825,0.150834

@@ -1,0 +1,79 @@
+case,model,backup_dir,metadata_file,patch_file,repo_value,repo_url,base_commit,stage,error
+django__django-11149,claude,claud-sonnet_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/metadata/django__django-11149.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/patches/django__django-11149.patch,django/django,https://github.com/django/django.git,e245046bb6e8b32360aa48b8a41fb7050f0fc730,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/contrib/admin/options.py:2120
+error: django/contrib/admin/options.py: patch does not apply
+"
+django__django-11133,claude,claud-sonnet_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/metadata/django__django-11133.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/patches/django__django-11133.patch,django/django,https://github.com/django/django.git,879cc3da6249e920b8d54518a0ae06de835d7373,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/http/response.py:347
+error: django/http/response.py: patch does not apply
+"
+django__django-15752,claude,claud-sonnet_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/metadata/django__django-15752.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/patches/django__django-15752.patch,django/django,https://github.com/django/django.git,a3a1290d47326c3f87824b3cf7ca969cb0d364aa,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/contrib/auth/base_user.py:1
+error: django/contrib/auth/base_user.py: patch does not apply
+"
+django__django-16950,claude,claud-sonnet_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/metadata/django__django-16950.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/patches/django__django-16950.patch,django/django,https://github.com/django/django.git,f64fd47a7627ed6ffe2df2a32ded6ee528a784eb,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/forms/models.py:1131
+error: django/forms/models.py: patch does not apply
+"
+django__django-11680,claude,claud-sonnet_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/metadata/django__django-11680.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/claud-sonnet_backup/patches/django__django-11680.patch,django/django,https://github.com/django/django.git,e9f74f53ccbf897ed69a484f35d616e1914d2c90,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/base.py:671
+error: django/db/models/base.py: patch does not apply
+error: patch failed: django/db/models/base.py:741
+error: django/db/models/base.py: patch does not apply
+error: patch failed: django/db/models/base.py:671
+error: django/db/models/base.py: patch does not apply
+"
+django__django-13691,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-13691.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-13691.patch,django/django,https://github.com/django/django.git,f5e5aac59ebbcea46b98d37834915de0f43d7cc8,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/fields/json.py:63
+error: django/db/models/fields/json.py: patch does not apply
+error: patch failed: django/db/models/lookups.py:28
+error: django/db/models/lookups.py: patch does not apply
+error: patch failed: tests/model_fields/test_jsonfield.py:28
+error: tests/model_fields/test_jsonfield.py: patch does not apply
+error: patch failed: tests/model_fields/test_jsonfield.py:28
+error: tests/model_fields/test_jsonfield.py: patch does not apply
+error: patch failed: tests/model_fields/test_jsonfield.py:28
+error: tests/model_fields/test_jsonfield.py: patch does not apply
+error: patch failed: tests/model_fields/test_jsonfield.py:28
+error: tests/model_fields/test_jsonfield.py: patch does not apply
+"
+django__django-11446,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-11446.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-11446.patch,django/django,https://github.com/django/django.git,d6ea4898c44f75a25bc0b7a60b54fd6dddc69eb5,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/views/defaults.py:25
+error: django/views/defaults.py: patch does not apply
+"
+django__django-16902,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-16902.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-16902.patch,django/django,https://github.com/django/django.git,d3d173425fc0a1107836da5b4567f1c88253191b,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/functions/text.py:262
+error: django/db/models/functions/text.py: patch does not apply
+error: patch failed: django/db/models/functions/text.py:262
+error: django/db/models/functions/text.py: patch does not apply
+"
+astropy__astropy-12825,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/astropy__astropy-12825.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/astropy__astropy-12825.patch,astropy/astropy,https://github.com/astropy/astropy.git,43ee5806e9c6f7d58c12c1cb9287b3c61abe489d,STRICT_APPLY_CHECK_FAILED,"error: patch failed: astropy/table/groups.py:345
+error: astropy/table/groups.py: patch does not apply
+error: patch failed: astropy/table/column.py:78
+error: astropy/table/column.py: patch does not apply
+"
+django__django-13233,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-13233.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-13233.patch,django/django,https://github.com/django/django.git,41065cfed56d5408dd8f267b9e70089471a7f1be,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/fields/files.py:322
+error: django/db/models/fields/files.py: patch does not apply
+"
+django__django-13590,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-13590.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-13590.patch,django/django,https://github.com/django/django.git,755dbf39fcdc491fe9b588358303e259c7750be4,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/sql/query.py:1689
+error: django/db/models/sql/query.py: patch does not apply
+"
+django__django-10316,codellama-tuned,codellama_tuned_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/metadata/django__django-10316.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/codellama_tuned_backup/patches/django__django-10316.patch,django/django,https://github.com/django/django.git,cfb4845f061ed6e81e9b5a1873d1c08d98c4b5a9,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/core/management/commands/diffsettings.py:14
+error: django/core/management/commands/diffsettings.py: patch does not apply
+"
+astropy__astropy-13033,deepseek,deepseek_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/metadata/astropy__astropy-13033.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/patches/astropy__astropy-13033.patch,astropy/astropy,https://github.com/astropy/astropy.git,298ccb478e6bf092953bca67a3d29dc6c35f6752,STRICT_APPLY_CHECK_FAILED,"error: patch failed: astropy/timeseries/tests/test_sampled.py:43
+error: astropy/timeseries/tests/test_sampled.py: patch does not apply
+"
+django__django-13530,deepseek,deepseek_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/metadata/django__django-13530.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/patches/django__django-13530.patch,django/django,https://github.com/django/django.git,ac6c4260074de43a978e5c6553ef89441e1d6748,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/db/models/expressions.py:1163
+error: django/db/models/expressions.py: patch does not apply
+"
+django__django-13794,deepseek,deepseek_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/metadata/django__django-13794.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/patches/django__django-13794.patch,django/django,https://github.com/django/django.git,fe886eee36be8022f34cfe59aa61ff1c21fe01d9,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/utils/functional.py:186
+error: django/utils/functional.py: patch does not apply
+"
+django__django-14399,deepseek,deepseek_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/metadata/django__django-14399.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/deepseek_backup/patches/django__django-14399.patch,django/django,https://github.com/django/django.git,958cdf65ae90d26236d1815bbba804729595ec7a,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/conf/__init__.py:172
+error: django/conf/__init__.py: patch does not apply
+"
+django__django-12803,gpt-4o,gpt-4o_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/metadata/django__django-12803.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/patches/django__django-12803.patch,django/django,https://github.com/django/django.git,35f89d199c94ebc72b06d5c44077401aa2eae47f,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/contrib/staticfiles/storage.py:83
+error: django/contrib/staticfiles/storage.py: patch does not apply
+"
+django__django-16145,gpt-4o,gpt-4o_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/metadata/django__django-16145.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/patches/django__django-16145.patch,django/django,https://github.com/django/django.git,93d4c9ea1de24eb391cb2b3561b6703fd46374df,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/core/management/commands/runserver.py:106
+error: django/core/management/commands/runserver.py: patch does not apply
+"
+django__django-11294,gpt-4o,gpt-4o_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/metadata/django__django-11294.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/patches/django__django-11294.patch,django/django,https://github.com/django/django.git,a9b8898242cf2579ca5727ecab516ab761bce488,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/template/defaultfilters.py:857
+error: django/template/defaultfilters.py: patch does not apply
+"
+django__django-15139,gpt-4o,gpt-4o_backup,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/metadata/django__django-15139.json,/Users/mac/Downloads/llm_risk_pipeline_replicate/runs_backup/gpt-4o_backup/patches/django__django-15139.patch,django/django,https://github.com/django/django.git,08d8bccbf1b0764a0de68325569ee47da256e206,STRICT_APPLY_CHECK_FAILED,"error: patch failed: django/core/serializers/base.py:11
+error: django/core/serializers/base.py: patch does not apply
+"

@@ -1,0 +1,17 @@
+ESTATÍSTICA PAREADA — 30 RUNS
+Convenção: delta > 0 significa que FULL teve ROC-AUC/PR-AUC maior.
+Teste principal reportado abaixo: Wilcoxon duas caudas + Benjamini-Hochberg FDR dentro de cada família/métrica; IC95% por bootstrap dos deltas pareados.
+
+[FEATURE_SET]
+full_vs_patch_only: Δ=+0.0331 [IC95% +0.0063, +0.0605], Wilcoxon p=0.0384184, q_FDR=0.0384184, wins=19/30, r_rb=+0.432, FDR<0.05=SIM
+full_vs_patch_plus_problem_statement: Δ=+0.0334 [IC95% +0.0101, +0.0577], Wilcoxon p=0.0164312, q_FDR=0.0197175, wins=20/30, r_rb=+0.497, FDR<0.05=SIM
+full_vs_model_plus_problem_statement: Δ=+0.0631 [IC95% +0.0340, +0.0943], Wilcoxon p=0.000209127, q_FDR=0.000418253, wins=25/30, r_rb=+0.733, FDR<0.05=SIM
+full_vs_problem_statement_only: Δ=+0.0690 [IC95% +0.0356, +0.1031], Wilcoxon p=0.0012321, q_FDR=0.00184816, wins=21/30, r_rb=+0.652, FDR<0.05=SIM
+full_vs_model_only: Δ=+0.0708 [IC95% +0.0454, +0.0968], Wilcoxon p=8.687e-05, q_FDR=0.00026061, wins=22/30, r_rb=+0.834, FDR<0.05=SIM
+full_vs_prompt_only: Δ=+0.0881 [IC95% +0.0622, +0.1144], Wilcoxon p=1.63913e-07, q_FDR=9.83477e-07, wins=26/30, r_rb=+0.944, FDR<0.05=SIM
+
+[ABLATION]
+full_vs_without_problem_statement: Δ=+0.0457 [IC95% +0.0280, +0.0637], Wilcoxon p=4.40758e-05, q_FDR=0.000176303, wins=24/30, r_rb=+0.794, FDR<0.05=SIM
+full_vs_without_prompt_envelope: Δ=+0.0191 [IC95% -0.0042, +0.0426], Wilcoxon p=0.151887, q_FDR=0.202516, wins=17/30, r_rb=+0.303, FDR<0.05=NÃO
+full_vs_without_model_identity: Δ=+0.0128 [IC95% +0.0040, +0.0211], Wilcoxon p=0.00814298, q_FDR=0.016286, wins=20/30, r_rb=+0.544, FDR<0.05=SIM
+full_vs_without_patch_structure: Δ=+0.0067 [IC95% -0.0111, +0.0241], Wilcoxon p=0.271006, q_FDR=0.271006, wins=19/30, r_rb=+0.234, FDR<0.05=NÃO

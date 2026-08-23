@@ -1,0 +1,1201 @@
+run,classifier,metric,baseline,feature_set,baseline_value,feature_set_value,delta
+1,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.4921875,0.5285714285714286,0.03638392857142858
+2,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5460464015151515,0.46259469696969696,-0.08345170454545453
+3,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5456814236111112,0.6627604166666666,0.11707899305555547
+4,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5255190311418685,0.6172145328719724,0.09169550173010388
+5,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.48662280701754385,0.6000000000000001,0.11337719298245624
+6,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5799755799755799,0.6172161172161172,0.03724053724053733
+7,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5586885245901639,0.6975956284153005,0.1389071038251366
+8,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5923060156931125,0.6172624237140366,0.024956408020924137
+9,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6705713602677504,0.7734879273248864,0.10291656705713592
+10,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5820151679306609,0.3236186348862405,-0.2583965330444204
+11,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5031419284940412,0.6235102925243771,0.1203683640303359
+12,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6065538194444444,0.6362847222222221,0.02973090277777768
+13,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5587084148727984,0.7370080452272233,0.17829963035442487
+14,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6125986134353334,0.7342816160650252,0.12168300262969178
+15,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.556640625,0.5815972222222221,0.0249565972222221
+16,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5068080357142857,0.6174107142857143,0.11060267857142858
+17,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5664001776593381,0.48090162114146123,-0.08549855651787691
+18,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5461914279369309,0.5501887630468576,0.003997335109926725
+19,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.4750457875457875,0.6785714285714286,0.20352564102564108
+20,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.544405997693195,0.6254901960784314,0.0810841983852364
+21,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5899185560202509,0.5801232665639445,-0.009795289456306366
+22,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.4964308890330954,0.6518494484101233,0.15541855937702787
+23,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6177681473456121,0.5299024918743228,-0.08786565547128933
+24,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6090697674418604,0.6706976744186046,0.06162790697674425
+25,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5219018269865728,0.40710983931322914,-0.1147919876733437
+26,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.46549479166666663,0.5928819444444444,0.1273871527777778
+27,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.6209956709956711,0.5831168831168831,-0.037878787878787956
+28,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5494166850099053,0.6016949152542374,0.05227823024433209
+29,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5805074971164936,0.5798154555940023,-0.0006920415224913601
+30,logistic_regression,roc_auc,Baseline,Sensitive Operation,0.5420758928571429,0.6178571428571429,0.07578125000000002
+1,logistic_regression,roc_auc,Baseline,Technical Specificity,0.4921875,0.48928571428571427,-0.0029017857142857317
+2,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5460464015151515,0.6070075757575758,0.06096117424242431
+3,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5456814236111112,0.6128472222222221,0.06716579861111094
+4,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5255190311418685,0.5025951557093425,-0.022923875432525942
+5,logistic_regression,roc_auc,Baseline,Technical Specificity,0.48662280701754385,0.6000000000000001,0.11337719298245624
+6,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5799755799755799,0.5717948717948718,-0.008180708180708152
+7,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5586885245901639,0.4986885245901639,-0.06000000000000005
+8,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5923060156931125,0.49738448125544904,-0.09492153443766344
+9,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6705713602677504,0.5635907243605068,-0.1069806359072436
+10,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5820151679306609,0.40552546045503796,-0.17648970747562293
+11,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5031419284940412,0.41202600216684726,-0.0911159263271939
+12,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6065538194444444,0.4969618055555556,-0.10959201388888884
+13,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5587084148727984,0.5934985866492716,0.034790171776473144
+14,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6125986134353334,0.6276595744680851,0.015060961032751674
+15,logistic_regression,roc_auc,Baseline,Technical Specificity,0.556640625,0.4991319444444444,-0.05750868055555558
+16,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5068080357142857,0.6580357142857142,0.1512276785714285
+17,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5664001776593381,0.6567843659782366,0.0903841883188985
+18,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5461914279369309,0.5679546968687541,0.021763268931823232
+19,logistic_regression,roc_auc,Baseline,Technical Specificity,0.4750457875457875,0.5393772893772893,0.06433150183150182
+20,logistic_regression,roc_auc,Baseline,Technical Specificity,0.544405997693195,0.44648212226066897,-0.09792387543252601
+21,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5899185560202509,0.5162887959498128,-0.07362976007043809
+22,logistic_regression,roc_auc,Baseline,Technical Specificity,0.4964308890330954,0.6899199653904391,0.1934890763573437
+23,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6177681473456121,0.528169014084507,-0.08959913326110513
+24,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6090697674418604,0.5344186046511628,-0.07465116279069761
+25,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5219018269865728,0.5506273387629319,0.02872551177635907
+26,logistic_regression,roc_auc,Baseline,Technical Specificity,0.46549479166666663,0.6232638888888888,0.1577690972222222
+27,logistic_regression,roc_auc,Baseline,Technical Specificity,0.6209956709956711,0.5874458874458874,-0.03354978354978366
+28,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5494166850099053,0.5330178296279992,-0.016398855381906108
+29,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5805074971164936,0.7016147635524798,0.12110726643598613
+30,logistic_regression,roc_auc,Baseline,Technical Specificity,0.5420758928571429,0.41696428571428573,-0.12511160714285713
+1,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.4921875,0.5392857142857143,0.04709821428571426
+2,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5460464015151515,0.3953598484848485,-0.15068655303030298
+3,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5456814236111112,0.42578125,-0.11990017361111116
+4,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5255190311418685,0.42733564013840825,-0.09818339100346024
+5,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.48662280701754385,0.5631578947368421,0.07653508771929823
+6,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5799755799755799,0.5747252747252748,-0.005250305250305121
+7,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5586885245901639,0.5397814207650273,-0.018907103825136606
+8,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5923060156931125,0.5592850915431561,-0.03302092414995639
+9,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6705713602677504,0.4837437245995697,-0.18682763566818072
+10,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5820151679306609,0.4501625135427953,-0.1318526543878656
+11,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5031419284940412,0.575406283856988,0.07226435536294684
+12,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6065538194444444,0.5651041666666667,-0.04144965277777768
+13,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5587084148727984,0.5739291150250054,0.015220700152207
+14,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6125986134353334,0.45266555103992345,-0.15993306239540994
+15,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.556640625,0.3732638888888889,-0.1833767361111111
+16,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5068080357142857,0.5424107142857143,0.035602678571428625
+17,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5664001776593381,0.6727737064179434,0.10637352875860528
+18,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5461914279369309,0.4840106595602931,-0.062180768376637774
+19,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.4750457875457875,0.5137362637362637,0.038690476190476164
+20,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.544405997693195,0.6356401384083046,0.0912341407151096
+21,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5899185560202509,0.4669821703720009,-0.12293638564824999
+22,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.4964308890330954,0.46365996106424395,-0.03277092796885145
+23,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6177681473456121,0.46663055254604546,-0.15113759479956668
+24,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6090697674418604,0.4297674418604651,-0.17930232558139525
+25,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5219018269865728,0.5928901606867708,0.07098833370019797
+26,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.46549479166666663,0.5073784722222222,0.04188368055555558
+27,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.6209956709956711,0.5489177489177489,-0.07207792207792219
+28,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5494166850099053,0.6395553598943429,0.09013867488443761
+29,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5805074971164936,0.5733564013840831,-0.007151095732410573
+30,logistic_regression,roc_auc,Baseline,Structural / Constraint Signals,0.5420758928571429,0.4745535714285714,-0.06752232142857145
+1,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.4921875,0.5455357142857142,0.053348214285714235
+2,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5460464015151515,0.5450994318181819,-0.0009469696969696129
+3,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5456814236111112,0.6649305555555556,0.11924913194444442
+4,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5255190311418685,0.6495458477508651,0.12402681660899662
+5,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.48662280701754385,0.7043859649122807,0.21776315789473683
+6,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5799755799755799,0.6236874236874237,0.04371184371184378
+7,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5586885245901639,0.7295081967213115,0.17081967213114757
+8,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5923060156931125,0.6482127288578902,0.05590671316477769
+9,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6705713602677504,0.7156347119292374,0.045063351661487006
+10,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5820151679306609,0.3872156013001084,-0.19479956663055248
+11,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5031419284940412,0.6949079089924161,0.1917659804983749
+12,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6065538194444444,0.6928168402777777,0.08626302083333326
+13,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5587084148727984,0.7690802348336595,0.21037181996086107
+14,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6125986134353334,0.8143676786994979,0.2017690652641645
+15,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.556640625,0.5859375,0.029296875
+16,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5068080357142857,0.6502232142857143,0.1434151785714286
+17,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5664001776593381,0.5750610703975128,0.008660892738174608
+18,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5461914279369309,0.6088163446591162,0.06262491672218529
+19,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.4750457875457875,0.75,0.2749542124542125
+20,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.544405997693195,0.7265282583621684,0.1821222606689734
+21,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5899185560202509,0.6465991635483161,0.05668060752806525
+22,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.4964308890330954,0.7210685701925156,0.22463768115942018
+23,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6177681473456121,0.6020585048754062,-0.015709642470205898
+24,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6090697674418604,0.6488372093023256,0.039767441860465214
+25,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5219018269865728,0.5224521241470395,0.0005502971604666174
+26,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.46549479166666663,0.6137152777777778,0.14822048611111116
+27,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.6209956709956711,0.5330086580086579,-0.08798701298701317
+28,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5494166850099053,0.6545234426590358,0.10510675764913058
+29,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5805074971164936,0.7023068050749711,0.12179930795847749
+30,logistic_regression,roc_auc,Baseline,All Prompt Risk Features,0.5420758928571429,0.6896205357142857,0.14754464285714286
+1,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4921875,0.5560267857142857,0.06383928571428565
+2,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5460464015151515,0.4597537878787879,-0.08629261363636359
+3,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5456814236111112,0.6662326388888888,0.12055121527777768
+4,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5255190311418685,0.6137543252595157,0.08823529411764719
+5,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.48662280701754385,0.6938596491228071,0.20723684210526322
+6,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5799755799755799,0.6207570207570208,0.04078144078144086
+7,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5586885245901639,0.7344262295081967,0.17573770491803276
+8,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5923060156931125,0.6822144725370531,0.08990845684394067
+9,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6705713602677504,0.7391824049725078,0.06861104470475732
+10,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5820151679306609,0.4034669555796317,-0.1785482123510292
+11,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5031419284940412,0.6541711809317443,0.15102925243770315
+12,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6065538194444444,0.7358940972222222,0.1293402777777778
+13,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5587084148727984,0.7486410089149815,0.1899325940421831
+14,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6125986134353334,0.7912981114032991,0.1786994979679657
+15,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.556640625,0.6193576388888888,0.06271701388888884
+16,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5068080357142857,0.6343749999999999,0.12756696428571423
+17,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5664001776593381,0.5940484121696646,0.027648234510326497
+18,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5461914279369309,0.5629580279813458,0.01676660004441488
+19,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4750457875457875,0.7186355311355311,0.2435897435897436
+20,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.544405997693195,0.7554786620530565,0.2110726643598615
+21,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5899185560202509,0.672903367818622,0.08298481179837114
+22,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4964308890330954,0.7341553104044992,0.23772442137140382
+23,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6177681473456121,0.6136511375947995,-0.004117009750812639
+24,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6090697674418604,0.6665116279069768,0.05744186046511646
+25,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5219018269865728,0.5494166850099053,0.027514858023332422
+26,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.46549479166666663,0.6228298611111112,0.15733506944444453
+27,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6209956709956711,0.5577922077922078,-0.06320346320346326
+28,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5494166850099053,0.6755447941888619,0.12612810917895667
+29,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5805074971164936,0.7160322952710496,0.13552479815455598
+30,logistic_regression,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5420758928571429,0.7136160714285713,0.17154017857142845
+1,random_forest,roc_auc,Baseline,Sensitive Operation,0.4889508928571428,0.6517857142857143,0.16283482142857147
+2,random_forest,roc_auc,Baseline,Sensitive Operation,0.5634469696969697,0.5052083333333333,-0.058238636363636465
+3,random_forest,roc_auc,Baseline,Sensitive Operation,0.4190538194444444,0.5711805555555556,0.15212673611111116
+4,random_forest,roc_auc,Baseline,Sensitive Operation,0.4618295847750865,0.6085640138408305,0.14673442906574397
+5,random_forest,roc_auc,Baseline,Sensitive Operation,0.531359649122807,0.5394736842105263,0.008114035087719351
+6,random_forest,roc_auc,Baseline,Sensitive Operation,0.5782661782661783,0.5312576312576313,-0.047008547008547064
+7,random_forest,roc_auc,Baseline,Sensitive Operation,0.505792349726776,0.6092896174863387,0.1034972677595627
+8,random_forest,roc_auc,Baseline,Sensitive Operation,0.5522013949433304,0.4838709677419355,-0.06833042720139493
+9,random_forest,roc_auc,Baseline,Sensitive Operation,0.7036815682524504,0.7620129093951709,0.05833134114272043
+10,random_forest,roc_auc,Baseline,Sensitive Operation,0.438353196099675,0.43196099674972915,-0.006392199349945837
+11,random_forest,roc_auc,Baseline,Sensitive Operation,0.5741061755146262,0.5125677139761646,-0.06153846153846154
+12,random_forest,roc_auc,Baseline,Sensitive Operation,0.608615451388889,0.625,0.01638454861111105
+13,random_forest,roc_auc,Baseline,Sensitive Operation,0.5363122417916938,0.6578604044357469,0.1215481626440531
+14,random_forest,roc_auc,Baseline,Sensitive Operation,0.5100406406885011,0.5545063351661488,0.0444656944776477
+15,random_forest,roc_auc,Baseline,Sensitive Operation,0.4756944444444444,0.5,0.02430555555555558
+16,random_forest,roc_auc,Baseline,Sensitive Operation,0.5412946428571429,0.6066964285714286,0.06540178571428568
+17,random_forest,roc_auc,Baseline,Sensitive Operation,0.5902731512325117,0.4524761270264268,-0.13779702420608486
+18,random_forest,roc_auc,Baseline,Sensitive Operation,0.49933377748167884,0.5111037086386854,0.01176993115700653
+19,random_forest,roc_auc,Baseline,Sensitive Operation,0.5868818681318682,0.5796703296703297,-0.007211538461538436
+20,random_forest,roc_auc,Baseline,Sensitive Operation,0.4077277970011534,0.7002306805074971,0.29250288350634374
+21,random_forest,roc_auc,Baseline,Sensitive Operation,0.6349328637464231,0.6813779440898086,0.04644508034338546
+22,random_forest,roc_auc,Baseline,Sensitive Operation,0.5048669695003245,0.6968418775686783,0.19197490806835382
+23,random_forest,roc_auc,Baseline,Sensitive Operation,0.5346695557963164,0.5957746478873239,0.06110509209100756
+24,random_forest,roc_auc,Baseline,Sensitive Operation,0.5551162790697675,0.6441860465116279,0.08906976744186046
+25,random_forest,roc_auc,Baseline,Sensitive Operation,0.6045564604886637,0.4484921857803214,-0.15606427470834233
+26,random_forest,roc_auc,Baseline,Sensitive Operation,0.5870225694444445,0.5694444444444444,-0.01757812500000011
+27,random_forest,roc_auc,Baseline,Sensitive Operation,0.5193722943722944,0.558874458874459,0.039502164502164594
+28,random_forest,roc_auc,Baseline,Sensitive Operation,0.4728153202729474,0.5858463570327977,0.11303103675985032
+29,random_forest,roc_auc,Baseline,Sensitive Operation,0.39158016147635527,0.5447520184544405,0.15317185697808527
+30,random_forest,roc_auc,Baseline,Sensitive Operation,0.5309151785714286,0.5785714285714285,0.047656249999999956
+1,random_forest,roc_auc,Baseline,Technical Specificity,0.4889508928571428,0.5026785714285713,0.013727678571428481
+2,random_forest,roc_auc,Baseline,Technical Specificity,0.5634469696969697,0.5558712121212122,-0.007575757575757569
+3,random_forest,roc_auc,Baseline,Technical Specificity,0.4190538194444444,0.5911458333333333,0.17209201388888884
+4,random_forest,roc_auc,Baseline,Technical Specificity,0.4618295847750865,0.6418685121107266,0.1800389273356401
+5,random_forest,roc_auc,Baseline,Technical Specificity,0.531359649122807,0.556140350877193,0.02478070175438607
+6,random_forest,roc_auc,Baseline,Technical Specificity,0.5782661782661783,0.4262515262515263,-0.15201465201465203
+7,random_forest,roc_auc,Baseline,Technical Specificity,0.505792349726776,0.6910382513661202,0.18524590163934418
+8,random_forest,roc_auc,Baseline,Technical Specificity,0.5522013949433304,0.48605056669572794,-0.06615082824760249
+9,random_forest,roc_auc,Baseline,Technical Specificity,0.7036815682524504,0.5004781257470714,-0.20320344250537903
+10,random_forest,roc_auc,Baseline,Technical Specificity,0.438353196099675,0.480931744312026,0.04257854821235102
+11,random_forest,roc_auc,Baseline,Technical Specificity,0.5741061755146262,0.42762730227518964,-0.14647887323943654
+12,random_forest,roc_auc,Baseline,Technical Specificity,0.608615451388889,0.4969618055555556,-0.11165364583333337
+13,random_forest,roc_auc,Baseline,Technical Specificity,0.5363122417916938,0.76397042835399,0.2276581865622962
+14,random_forest,roc_auc,Baseline,Technical Specificity,0.5100406406885011,0.6965096820463782,0.18646904135787712
+15,random_forest,roc_auc,Baseline,Technical Specificity,0.4756944444444444,0.5807291666666667,0.10503472222222232
+16,random_forest,roc_auc,Baseline,Technical Specificity,0.5412946428571429,0.5196428571428571,-0.02165178571428583
+17,random_forest,roc_auc,Baseline,Technical Specificity,0.5902731512325117,0.6576726626693316,0.06739951143681988
+18,random_forest,roc_auc,Baseline,Technical Specificity,0.49933377748167884,0.40628469908949594,-0.0930490783921829
+19,random_forest,roc_auc,Baseline,Technical Specificity,0.5868818681318682,0.652014652014652,0.06513278388278387
+20,random_forest,roc_auc,Baseline,Technical Specificity,0.4077277970011534,0.5286043829296424,0.12087658592848899
+21,random_forest,roc_auc,Baseline,Technical Specificity,0.6349328637464231,0.5620735197006383,-0.07285934404578476
+22,random_forest,roc_auc,Baseline,Technical Specificity,0.5048669695003245,0.5592688730261735,0.05440190352584895
+23,random_forest,roc_auc,Baseline,Technical Specificity,0.5346695557963164,0.633911159263272,0.09924160346695565
+24,random_forest,roc_auc,Baseline,Technical Specificity,0.5551162790697675,0.7372093023255815,0.182093023255814
+25,random_forest,roc_auc,Baseline,Technical Specificity,0.6045564604886637,0.5611930442438916,-0.043363416244772135
+26,random_forest,roc_auc,Baseline,Technical Specificity,0.5870225694444445,0.6006944444444444,0.013671874999999889
+27,random_forest,roc_auc,Baseline,Technical Specificity,0.5193722943722944,0.5484848484848485,0.02911255411255409
+28,random_forest,roc_auc,Baseline,Technical Specificity,0.4728153202729474,0.6404358353510896,0.16762051507814218
+29,random_forest,roc_auc,Baseline,Technical Specificity,0.39158016147635527,0.5050749711649366,0.11349480968858133
+30,random_forest,roc_auc,Baseline,Technical Specificity,0.5309151785714286,0.5928571428571429,0.0619419642857143
+1,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4889508928571428,0.5366071428571428,0.04765625000000001
+2,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5634469696969697,0.3963068181818181,-0.1671401515151516
+3,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4190538194444444,0.39019097222222227,-0.028862847222222154
+4,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4618295847750865,0.4576124567474048,-0.004217128027681705
+5,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.531359649122807,0.45701754385964916,-0.07434210526315782
+6,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5782661782661783,0.4711843711843712,-0.10708180708180715
+7,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.505792349726776,0.33606557377049173,-0.16972677595628427
+8,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5522013949433304,0.36922406277244985,-0.18297733217088058
+9,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.7036815682524504,0.5267750418360029,-0.17690652641644755
+10,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.438353196099675,0.44842903575297943,0.010075839653304441
+11,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5741061755146262,0.47053087757313106,-0.10357529794149511
+12,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.608615451388889,0.5364583333333333,-0.07215711805555569
+13,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5363122417916938,0.45042400521852577,-0.08588823657316802
+14,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5100406406885011,0.4670093234520679,-0.043031317236433164
+15,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4756944444444444,0.4305555555555556,-0.04513888888888884
+16,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5412946428571429,0.45669642857142856,-0.08459821428571435
+17,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5902731512325117,0.33433266711081494,-0.25594048412169673
+18,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.49933377748167884,0.5248723073506552,0.025538529868976312
+19,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5868818681318682,0.45329670329670335,-0.1335851648351648
+20,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4077277970011534,0.513840830449827,0.10611303344867357
+21,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.6349328637464231,0.44320933303984145,-0.19172353070658166
+22,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5048669695003245,0.5017304780445598,-0.0031364914557646673
+23,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5346695557963164,0.47703141928494047,-0.05763813651137589
+24,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5551162790697675,0.41581395348837213,-0.13930232558139533
+25,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.6045564604886637,0.43792648029936165,-0.16662998018930208
+26,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5870225694444445,0.5073784722222222,-0.07964409722222232
+27,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5193722943722944,0.5489177489177489,0.02954545454545454
+28,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.4728153202729474,0.5893682588597843,0.11655293858683685
+29,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.39158016147635527,0.43125720876585927,0.039677047289504
+30,random_forest,roc_auc,Baseline,Structural / Constraint Signals,0.5309151785714286,0.49508928571428573,-0.03582589285714283
+1,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4889508928571428,0.599107142857143,0.11015625000000012
+2,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5634469696969697,0.4214015151515152,-0.14204545454545453
+3,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4190538194444444,0.5798611111111112,0.16080729166666674
+4,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4618295847750865,0.5951557093425606,0.13332612456747406
+5,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.531359649122807,0.45,-0.08135964912280697
+6,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5782661782661783,0.563980463980464,-0.014285714285714346
+7,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.505792349726776,0.7233879781420764,0.21759562841530045
+8,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5522013949433304,0.48169136878814295,-0.07051002615518748
+9,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.7036815682524504,0.6745158976810902,-0.029165670571360214
+10,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.438353196099675,0.5255687973997833,0.08721560130010836
+11,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5741061755146262,0.47616468039003246,-0.09794149512459371
+12,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.608615451388889,0.5885416666666667,-0.02007378472222221
+13,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5363122417916938,0.6491628614916286,0.11285061969993482
+14,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5100406406885011,0.6123595505617977,0.10231890987329662
+15,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4756944444444444,0.4835069444444444,0.0078125
+16,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5412946428571429,0.5178571428571428,-0.02343750000000011
+17,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5902731512325117,0.5750610703975128,-0.01521208083499892
+18,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.49933377748167884,0.5306462358427715,0.03131245836109264
+19,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5868818681318682,0.6263736263736265,0.039491758241758323
+20,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4077277970011534,0.6167243367935409,0.20899653979238747
+21,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.6349328637464231,0.572639225181598,-0.06229363856482506
+22,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5048669695003245,0.581765087605451,0.07689811810512648
+23,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5346695557963164,0.5628385698808235,0.028169014084507116
+24,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5551162790697675,0.6544186046511627,0.09930232558139529
+25,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.6045564604886637,0.46169931763152106,-0.14285714285714268
+26,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5870225694444445,0.5164930555555556,-0.07052951388888895
+27,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5193722943722944,0.44632034632034634,-0.07305194805194803
+28,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.4728153202729474,0.5708782742681049,0.09806295399515746
+29,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.39158016147635527,0.4404844290657439,0.04890426758938865
+30,random_forest,roc_auc,Baseline,All Prompt Risk Features,0.5309151785714286,0.5973214285714286,0.06640625
+1,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4889508928571428,0.5848214285714286,0.09587053571428578
+2,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5634469696969697,0.41761363636363635,-0.14583333333333337
+3,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4190538194444444,0.5544704861111113,0.13541666666666685
+4,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4618295847750865,0.5692041522491349,0.10737456747404839
+5,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.531359649122807,0.468640350877193,-0.06271929824561395
+6,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5782661782661783,0.6122100122100123,0.033943833943833934
+7,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.505792349726776,0.6102732240437158,0.10448087431693975
+8,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5522013949433304,0.539232781168265,-0.012968613775065418
+9,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.7036815682524504,0.7140808032512551,0.010399234998804685
+10,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.438353196099675,0.46067172264355366,0.02231852654387867
+11,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5741061755146262,0.5035752979414951,-0.07053087757313103
+12,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.608615451388889,0.5848524305555556,-0.02376302083333337
+13,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5363122417916938,0.6210045662100456,0.08469232441835184
+14,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5100406406885011,0.6110447047573513,0.10100406406885021
+15,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4756944444444444,0.5887586805555556,0.11306423611111116
+16,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5412946428571429,0.5363839285714287,-0.004910714285714213
+17,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5902731512325117,0.6040417499444815,0.013768598711969782
+18,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.49933377748167884,0.49211636686653343,-0.007217410615145414
+19,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5868818681318682,0.6639194139194139,0.07703754578754574
+20,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4077277970011534,0.6468281430219147,0.2391003460207613
+21,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6349328637464231,0.5432533568126788,-0.09167950693374427
+22,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5048669695003245,0.5422885572139303,0.03742158771360582
+23,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5346695557963164,0.5570964247020584,0.02242686890574208
+24,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5551162790697675,0.7058139534883721,0.1506976744186046
+25,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.6045564604886637,0.556680607528065,-0.04787585296059871
+26,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5870225694444445,0.6263020833333334,0.03927951388888884
+27,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5193722943722944,0.516017316017316,-0.003354978354978333
+28,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.4728153202729474,0.6268985252036099,0.15408320493066247
+29,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.39158016147635527,0.49919261822376004,0.10761245674740477
+30,random_forest,roc_auc,Baseline,Baseline + All Prompt Risk Features,0.5309151785714286,0.5450892857142857,0.014174107142857162
+1,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.39675540603700177,0.4553019619976326,0.05854655596063085
+2,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.3813547717094924,0.4371197836732992,0.05576501196380679
+3,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5343452604266195,0.6476646294513727,0.11331936902475326
+4,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.48076259940595567,0.6013082553245337,0.12054565591857802
+5,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4132554784835759,0.5494419725621061,0.13618649407853023
+6,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.38165186501600334,0.4085898669232002,0.026938001907196862
+7,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5337896921500664,0.6591800411269775,0.12539034897691104
+8,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5661656068791463,0.61306205338626,0.046896446507113665
+9,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.8038728860300765,0.851194643642074,0.04732175761199753
+10,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5818316593144386,0.39601047884606766,-0.18582118046837093
+11,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5119982943002637,0.6447337977394757,0.13273550343921203
+12,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5965263545902745,0.6472618980984283,0.05073554350815379
+13,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5153715048262781,0.7090661513647605,0.19369464653848234
+14,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4643287109033418,0.6792792880334373,0.21495057713009547
+15,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.524396231268677,0.5225210336538462,-0.0018751976148307925
+16,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4063147298433537,0.5465956539833268,0.14028092413997306
+17,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.48377903527609806,0.49676073602441306,0.012981700748315006
+18,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4401880011269276,0.47975674556120596,0.03956874443427838
+19,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.3634951350739407,0.5913534616876028,0.22785832661366212
+20,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.6710556136975079,0.7449851647746732,0.07392955107716537
+21,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5238893532539622,0.5248373217112474,0.0009479684572851754
+22,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5272516284237515,0.6423771567526477,0.11512552832889622
+23,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5853578229243057,0.5809851789662895,-0.004372643958016176
+24,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4528391346859686,0.6124815299789724,0.15964239529300384
+25,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.455395485371884,0.4684931164990986,0.01309763112721457
+26,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5017251056942325,0.6716247415592174,0.1698996358649849
+27,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5865191660011979,0.521592979707953,-0.06492618629324487
+28,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5017508483162414,0.516246820505295,0.01449597218905363
+29,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.4204502723028868,0.45259974948137693,0.03214947717849015
+30,logistic_regression,pr_auc,Baseline,Sensitive Operation,0.5942837355180403,0.7301105850725935,0.13582684955455326
+1,logistic_regression,pr_auc,Baseline,Technical Specificity,0.39675540603700177,0.4204848227953236,0.023729416758321853
+2,logistic_regression,pr_auc,Baseline,Technical Specificity,0.3813547717094924,0.41964876321819966,0.03829399150870727
+3,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5343452604266195,0.6167715339265478,0.08242627349992837
+4,logistic_regression,pr_auc,Baseline,Technical Specificity,0.48076259940595567,0.5705512696652184,0.08978867025926274
+5,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4132554784835759,0.5839308093675999,0.17067533088402398
+6,logistic_regression,pr_auc,Baseline,Technical Specificity,0.38165186501600334,0.4506786109835981,0.06902674596759478
+7,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5337896921500664,0.4548452410828905,-0.07894445106717596
+8,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5661656068791463,0.45632920661372806,-0.10983640026541824
+9,logistic_regression,pr_auc,Baseline,Technical Specificity,0.8038728860300765,0.7161700086462872,-0.08770287738378924
+10,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5818316593144386,0.4977533160251091,-0.0840783432893295
+11,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5119982943002637,0.4930898820164797,-0.018908412283783982
+12,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5965263545902745,0.514925796693643,-0.08160055789663145
+13,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5153715048262781,0.5666323536078564,0.05126084878157822
+14,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4643287109033418,0.5590592787762654,0.09473056787292355
+15,logistic_regression,pr_auc,Baseline,Technical Specificity,0.524396231268677,0.5283361267537932,0.003939895485116196
+16,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4063147298433537,0.5396689212285409,0.13335419138518723
+17,logistic_regression,pr_auc,Baseline,Technical Specificity,0.48377903527609806,0.5487765123888849,0.06499747711278686
+18,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4401880011269276,0.46037154227521115,0.02018354114828358
+19,logistic_regression,pr_auc,Baseline,Technical Specificity,0.3634951350739407,0.461697475415366,0.09820234034142528
+20,logistic_regression,pr_auc,Baseline,Technical Specificity,0.6710556136975079,0.6166975985658065,-0.054358015131701354
+21,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5238893532539622,0.5510168744103962,0.02712752115643391
+22,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5272516284237515,0.7086885402985293,0.18143691187477784
+23,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5853578229243057,0.4812060575214733,-0.10415176540283244
+24,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4528391346859686,0.4272113775487312,-0.025627757137237417
+25,logistic_regression,pr_auc,Baseline,Technical Specificity,0.455395485371884,0.5261148226338789,0.07071933726199486
+26,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5017251056942325,0.6218250022080667,0.12009989651383424
+27,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5865191660011979,0.5575341252445108,-0.028985040756687064
+28,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5017508483162414,0.4825272896848302,-0.019223558631411175
+29,logistic_regression,pr_auc,Baseline,Technical Specificity,0.4204502723028868,0.5391611818837051,0.11871090958081831
+30,logistic_regression,pr_auc,Baseline,Technical Specificity,0.5942837355180403,0.6148033347431103,0.020519599225070073
+1,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.39675540603700177,0.4508474118101134,0.05409200577311163
+2,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.3813547717094924,0.30541407712973956,-0.07594069457975283
+3,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5343452604266195,0.43305589786586474,-0.10128936256075471
+4,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.48076259940595567,0.46224933155080217,-0.018513267855153503
+5,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4132554784835759,0.4723862696443342,0.05913079116075831
+6,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.38165186501600334,0.3791404788627011,-0.002511386153302264
+7,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5337896921500664,0.4670970917155202,-0.06669260043454622
+8,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5661656068791463,0.5202144162522845,-0.045951190626861815
+9,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.8038728860300765,0.6536667334825597,-0.1502061525475168
+10,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5818316593144386,0.4510070905108126,-0.13082456880362597
+11,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5119982943002637,0.5721935175196525,0.06019522321938886
+12,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5965263545902745,0.5714660917785918,-0.02506026281168272
+13,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5153715048262781,0.5062513957603243,-0.00912010906595384
+14,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4643287109033418,0.322236328272406,-0.14209238263093582
+15,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.524396231268677,0.4149075112999745,-0.10948871996870246
+16,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4063147298433537,0.43736792303587535,0.031053193192521644
+17,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.48377903527609806,0.5312737573099415,0.04749472203384347
+18,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4401880011269276,0.4101932639084342,-0.029994737218493384
+19,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.3634951350739407,0.3887344913151365,0.025239356241195776
+20,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.6710556136975079,0.694607633794511,0.02355202009700308
+21,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5238893532539622,0.4224075846226636,-0.10148176863129865
+22,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5272516284237515,0.46652038104929894,-0.06073124737445257
+23,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5853578229243057,0.4698776054681498,-0.11548021745615594
+24,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4528391346859686,0.3365673356503566,-0.11627179903561197
+25,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.455395485371884,0.49755812690134726,0.04216264152946325
+26,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5017251056942325,0.5380856144450603,0.03636050875082786
+27,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5865191660011979,0.5147188718272528,-0.07180029417394507
+28,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5017508483162414,0.5177770987683828,0.016026250452141455
+29,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.4204502723028868,0.4307878256793105,0.010337553376423725
+30,logistic_regression,pr_auc,Baseline,Structural / Constraint Signals,0.5942837355180403,0.5719566162579233,-0.02232711926011699
+1,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.39675540603700177,0.4993646061352097,0.10260920009820795
+2,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.3813547717094924,0.477173088004,0.0958183162945076
+3,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5343452604266195,0.6864629557094037,0.1521176952827843
+4,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.48076259940595567,0.5965346595594522,0.1157720601534965
+5,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4132554784835759,0.6797768650461264,0.26652138656255053
+6,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.38165186501600334,0.44359691764515263,0.06194505262914929
+7,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5337896921500664,0.6632706502649605,0.12948095811489402
+8,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5661656068791463,0.6858364929360619,0.11967088605691556
+9,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.8038728860300765,0.8268972608061178,0.023024374776041356
+10,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5818316593144386,0.44181888225353194,-0.14001277706090665
+11,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5119982943002637,0.6872867121539591,0.17528841785369542
+12,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5965263545902745,0.7403240858675812,0.14379773127730677
+13,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5153715048262781,0.7755933722599055,0.2602218674336274
+14,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4643287109033418,0.7904990583279374,0.3261703474245956
+15,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.524396231268677,0.549892760796068,0.02549652952739101
+16,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4063147298433537,0.6636499129181787,0.25733518307482495
+17,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.48377903527609806,0.4890708009877336,0.005291765711635532
+18,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4401880011269276,0.5235304220554644,0.08334242092853683
+19,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.3634951350739407,0.7350700651687492,0.37157493009480846
+20,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.6710556136975079,0.8035696965777246,0.1325140828802167
+21,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5238893532539622,0.5653284746943426,0.04143912144038031
+22,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5272516284237515,0.7417884969402266,0.21453686851647513
+23,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5853578229243057,0.6200451787248571,0.03468735580055138
+24,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4528391346859686,0.5834392121281985,0.1306000774422299
+25,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.455395485371884,0.5608909061775434,0.10549542080565943
+26,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5017251056942325,0.7095499694130527,0.20782486371882025
+27,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5865191660011979,0.5424779952417741,-0.04404117075942382
+28,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5017508483162414,0.6295594638207399,0.1278086155044985
+29,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.4204502723028868,0.5164669584621668,0.09601668615928005
+30,logistic_regression,pr_auc,Baseline,All Prompt Risk Features,0.5942837355180403,0.7590407151165266,0.16475697959848634
+1,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.39675540603700177,0.48103176130032205,0.08427635526332028
+2,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.3813547717094924,0.3960850708547128,0.014730299145220394
+3,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5343452604266195,0.6814026999137717,0.14705743948715222
+4,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.48076259940595567,0.5510262894394928,0.07026369003353716
+5,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4132554784835759,0.6456446767217217,0.23238919823814574
+6,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.38165186501600334,0.43396548172069105,0.052313616704687704
+7,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5337896921500664,0.659950488436752,0.12616079628668553
+8,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5661656068791463,0.6977359171198454,0.1315703102406991
+9,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.8038728860300765,0.8463771714548304,0.04250428542475393
+10,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5818316593144386,0.45055420351762343,-0.13127745579681516
+11,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5119982943002637,0.6524025427688185,0.14040424846855482
+12,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5965263545902745,0.7859661454341094,0.1894397908438349
+13,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5153715048262781,0.6809001388638757,0.16552863403759754
+14,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4643287109033418,0.7901757657834453,0.32584705488010346
+15,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.524396231268677,0.5598993354174376,0.03550310414876068
+16,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4063147298433537,0.6439884439929876,0.2376737141496339
+17,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.48377903527609806,0.5122575432734662,0.02847850799736812
+18,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4401880011269276,0.48483326291054896,0.04464526178362138
+19,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.3634951350739407,0.6794763991068671,0.31598126403292637
+20,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.6710556136975079,0.8387063840741216,0.1676507703766137
+21,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5238893532539622,0.5762001589069531,0.052310805652990844
+22,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5272516284237515,0.7268435485518442,0.19959192012809268
+23,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5853578229243057,0.6241255521380138,0.03876772921370808
+24,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4528391346859686,0.6425997055656629,0.18976057087969433
+25,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.455395485371884,0.5059080083087684,0.05051252293688435
+26,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5017251056942325,0.7061334205416864,0.20440831484745392
+27,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5865191660011979,0.5497195037799669,-0.03679966222123099
+28,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5017508483162414,0.6457880425419371,0.14403719422569572
+29,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4204502723028868,0.5302834024673352,0.1098331301644484
+30,logistic_regression,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5942837355180403,0.7749180662908636,0.18063433077282331
+1,random_forest,pr_auc,Baseline,Sensitive Operation,0.4008559764700566,0.5725855104973023,0.17172953402724572
+2,random_forest,pr_auc,Baseline,Sensitive Operation,0.4246014317189349,0.3965572154159332,-0.02804421630300169
+3,random_forest,pr_auc,Baseline,Sensitive Operation,0.4395829450159289,0.5095440409829114,0.06996109596698247
+4,random_forest,pr_auc,Baseline,Sensitive Operation,0.47358380492113156,0.5717717759193683,0.09818797099823678
+5,random_forest,pr_auc,Baseline,Sensitive Operation,0.4840139366319752,0.5060364722924859,0.022022535660510767
+6,random_forest,pr_auc,Baseline,Sensitive Operation,0.3891520735777544,0.37031437788790733,-0.018837695689847056
+7,random_forest,pr_auc,Baseline,Sensitive Operation,0.45304242004987744,0.5899823174257139,0.1369398973758365
+8,random_forest,pr_auc,Baseline,Sensitive Operation,0.4897537126513545,0.44184036686458733,-0.04791334578676715
+9,random_forest,pr_auc,Baseline,Sensitive Operation,0.7673013940151916,0.8424988889097144,0.07519749489452277
+10,random_forest,pr_auc,Baseline,Sensitive Operation,0.4444544038542614,0.4416579119804926,-0.0027964918737687916
+11,random_forest,pr_auc,Baseline,Sensitive Operation,0.5899301703349746,0.558374279727517,-0.03155589060745767
+12,random_forest,pr_auc,Baseline,Sensitive Operation,0.599261629550352,0.6204200247590096,0.021158395208657588
+13,random_forest,pr_auc,Baseline,Sensitive Operation,0.4709927873340051,0.6402588150734814,0.16926602773947624
+14,random_forest,pr_auc,Baseline,Sensitive Operation,0.35022616594769784,0.4078980150996636,0.05767184915196577
+15,random_forest,pr_auc,Baseline,Sensitive Operation,0.4564472361674882,0.5311735108941709,0.07472627472668264
+16,random_forest,pr_auc,Baseline,Sensitive Operation,0.43835821754080645,0.5381203022161354,0.09976208467532893
+17,random_forest,pr_auc,Baseline,Sensitive Operation,0.5008533030973442,0.4434551455517877,-0.057398157545556494
+18,random_forest,pr_auc,Baseline,Sensitive Operation,0.41499462979153,0.43928243299819403,0.024287803206664016
+19,random_forest,pr_auc,Baseline,Sensitive Operation,0.46258253419768475,0.4333510185238275,-0.029231515673857233
+20,random_forest,pr_auc,Baseline,Sensitive Operation,0.5607617529373865,0.7726213066184798,0.21185955368109333
+21,random_forest,pr_auc,Baseline,Sensitive Operation,0.5484274162296356,0.5654057025229797,0.01697828629334408
+22,random_forest,pr_auc,Baseline,Sensitive Operation,0.5111539172045809,0.6287159284964378,0.11756201129185684
+23,random_forest,pr_auc,Baseline,Sensitive Operation,0.4679270202693238,0.5861302484949378,0.11820322822561397
+24,random_forest,pr_auc,Baseline,Sensitive Operation,0.3942636422624236,0.559658817079735,0.16539517481731136
+25,random_forest,pr_auc,Baseline,Sensitive Operation,0.4889559698870635,0.45704189764945,-0.0319140722376135
+26,random_forest,pr_auc,Baseline,Sensitive Operation,0.5934789442021721,0.6199877764603984,0.02650883225822631
+27,random_forest,pr_auc,Baseline,Sensitive Operation,0.5125310740280671,0.5828576748144519,0.07032660078638486
+28,random_forest,pr_auc,Baseline,Sensitive Operation,0.4058982742812287,0.568769383654892,0.16287110937366334
+29,random_forest,pr_auc,Baseline,Sensitive Operation,0.35005035296724973,0.45274509183850953,0.1026947388712598
+30,random_forest,pr_auc,Baseline,Sensitive Operation,0.6399200940663239,0.6792393891983253,0.039319295132001386
+1,random_forest,pr_auc,Baseline,Technical Specificity,0.4008559764700566,0.46901858062683366,0.06816260415677705
+2,random_forest,pr_auc,Baseline,Technical Specificity,0.4246014317189349,0.4698128802960438,0.045211448577108904
+3,random_forest,pr_auc,Baseline,Technical Specificity,0.4395829450159289,0.5885285027678392,0.14894555775191026
+4,random_forest,pr_auc,Baseline,Technical Specificity,0.47358380492113156,0.6780187597415067,0.20443495482037516
+5,random_forest,pr_auc,Baseline,Technical Specificity,0.4840139366319752,0.5430249776227006,0.05901104099072546
+6,random_forest,pr_auc,Baseline,Technical Specificity,0.3891520735777544,0.3093842921784098,-0.0797677813993446
+7,random_forest,pr_auc,Baseline,Technical Specificity,0.45304242004987744,0.6372495302765915,0.18420711022671404
+8,random_forest,pr_auc,Baseline,Technical Specificity,0.4897537126513545,0.5000141483561097,0.01026043570475521
+9,random_forest,pr_auc,Baseline,Technical Specificity,0.7673013940151916,0.6572727602906272,-0.1100286337245644
+10,random_forest,pr_auc,Baseline,Technical Specificity,0.4444544038542614,0.5067714773410514,0.06231707348679005
+11,random_forest,pr_auc,Baseline,Technical Specificity,0.5899301703349746,0.5214073189160374,-0.06852285141893721
+12,random_forest,pr_auc,Baseline,Technical Specificity,0.599261629550352,0.5272800711679388,-0.07198155838241316
+13,random_forest,pr_auc,Baseline,Technical Specificity,0.4709927873340051,0.7322568800529006,0.26126409271889545
+14,random_forest,pr_auc,Baseline,Technical Specificity,0.35022616594769784,0.4734911243672194,0.12326495841952156
+15,random_forest,pr_auc,Baseline,Technical Specificity,0.4564472361674882,0.5430124025287637,0.08656516636127548
+16,random_forest,pr_auc,Baseline,Technical Specificity,0.43835821754080645,0.4235700066383122,-0.01478821090249427
+17,random_forest,pr_auc,Baseline,Technical Specificity,0.5008533030973442,0.5244243367870527,0.023571033689708476
+18,random_forest,pr_auc,Baseline,Technical Specificity,0.41499462979153,0.45262102008460703,0.03762639029307702
+19,random_forest,pr_auc,Baseline,Technical Specificity,0.46258253419768475,0.606710915652448,0.1441283814547632
+20,random_forest,pr_auc,Baseline,Technical Specificity,0.5607617529373865,0.6595008922230226,0.09873913928563605
+21,random_forest,pr_auc,Baseline,Technical Specificity,0.5484274162296356,0.516107623672535,-0.0323197925571006
+22,random_forest,pr_auc,Baseline,Technical Specificity,0.5111539172045809,0.5718088584320504,0.060654941227469505
+23,random_forest,pr_auc,Baseline,Technical Specificity,0.4679270202693238,0.5442221935905046,0.0762951733211808
+24,random_forest,pr_auc,Baseline,Technical Specificity,0.3942636422624236,0.5985337301587301,0.20427008789630652
+25,random_forest,pr_auc,Baseline,Technical Specificity,0.4889559698870635,0.553350222689023,0.06439425280195948
+26,random_forest,pr_auc,Baseline,Technical Specificity,0.5934789442021721,0.6244211199966319,0.030942175794459792
+27,random_forest,pr_auc,Baseline,Technical Specificity,0.5125310740280671,0.5512907814809987,0.03875970745293167
+28,random_forest,pr_auc,Baseline,Technical Specificity,0.4058982742812287,0.5838755062096007,0.177977231928372
+29,random_forest,pr_auc,Baseline,Technical Specificity,0.35005035296724973,0.41596308973188156,0.06591273676463183
+30,random_forest,pr_auc,Baseline,Technical Specificity,0.6399200940663239,0.6455907744265067,0.0056706803601828115
+1,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4008559764700566,0.46998081826816746,0.06912484179811085
+2,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4246014317189349,0.30351625498684326,-0.12108517673209163
+3,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4395829450159289,0.4342173181889071,-0.005365626827021852
+4,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.47358380492113156,0.4940535873440285,0.02046978242289693
+5,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4840139366319752,0.4234184987126164,-0.060595437919358786
+6,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.3891520735777544,0.32067386831275724,-0.06847820526499715
+7,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.45304242004987744,0.3864610228015056,-0.06658139724837181
+8,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4897537126513545,0.41593860124695037,-0.07381511140440411
+9,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.7673013940151916,0.6881098082353867,-0.0791915857798049
+10,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4444544038542614,0.45527714932126695,0.010822745467005568
+11,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5899301703349746,0.503553490057995,-0.08637668027697964
+12,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.599261629550352,0.5586236734837304,-0.04063795606662157
+13,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4709927873340051,0.4419111745799964,-0.029081612754008723
+14,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.35022616594769784,0.34041931029962946,-0.00980685564806838
+15,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4564472361674882,0.44120758655024517,-0.015239649617243056
+16,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.43835821754080645,0.3968510962077139,-0.041507121333092534
+17,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5008533030973442,0.3897029505582137,-0.11115035253913053
+18,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.41499462979153,0.4337787561352372,0.018784126343707186
+19,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.46258253419768475,0.3634905081477662,-0.09909202604991857
+20,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5607617529373865,0.6305188194158782,0.06975706647849167
+21,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5484274162296356,0.4228094625909801,-0.12561795363865552
+22,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5111539172045809,0.5098175571184169,-0.0013363600861640013
+23,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4679270202693238,0.45583923349409383,-0.01208778677522998
+24,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.3942636422624236,0.33623655075104397,-0.058027091511379636
+25,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4889559698870635,0.4079210532308136,-0.0810349166562499
+26,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5934789442021721,0.5380856144450603,-0.05539332975711175
+27,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.5125310740280671,0.5147188718272528,0.0021877977991857644
+28,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.4058982742812287,0.4902963050975909,0.08439803081636221
+29,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.35005035296724973,0.35735231879967866,0.007301965832428925
+30,random_forest,pr_auc,Baseline,Structural / Constraint Signals,0.6399200940663239,0.6051935369318182,-0.034726557134505676
+1,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4008559764700566,0.5408641785518555,0.14000820208179893
+2,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4246014317189349,0.32857245366055055,-0.09602897805838434
+3,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4395829450159289,0.6041848649367274,0.16460191992079848
+4,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.47358380492113156,0.64851774926895,0.17493394434781845
+5,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4840139366319752,0.4741450249125792,-0.009868911719395967
+6,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.3891520735777544,0.4647572286803786,0.07560515510262422
+7,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.45304242004987744,0.7024905224336742,0.24944810238379672
+8,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4897537126513545,0.45417381639114585,-0.03557989626020863
+9,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.7673013940151916,0.8394562471396754,0.07215485312448378
+10,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4444544038542614,0.5490834712112627,0.10462906735700128
+11,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5899301703349746,0.4966517092283641,-0.09327846110661053
+12,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.599261629550352,0.5975608389618585,-0.0017007905884934837
+13,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4709927873340051,0.6227323542002395,0.1517395668662344
+14,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.35022616594769784,0.534337816289178,0.18411165034148014
+15,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4564472361674882,0.5521589915979468,0.09571175543045857
+16,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.43835821754080645,0.40925099394549275,-0.029107223595313703
+17,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5008533030973442,0.5007708487851231,-8.24543122210919e-05
+18,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.41499462979153,0.4923162642298798,0.07732163443834977
+19,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.46258253419768475,0.5381678981103095,0.07558536391262477
+20,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5607617529373865,0.777884469678483,0.2171227167410965
+21,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5484274162296356,0.48751874441130755,-0.0609086718183281
+22,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5111539172045809,0.5403371113079863,0.02918319410340542
+23,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4679270202693238,0.5225205017868305,0.0545934815175067
+24,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.3942636422624236,0.6158823393382217,0.22161869707579807
+25,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4889559698870635,0.4288904151098504,-0.06006555477721315
+26,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5934789442021721,0.568548585035654,-0.02493035916651809
+27,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.5125310740280671,0.4741805629750146,-0.03835051105305248
+28,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.4058982742812287,0.5662193872426883,0.16032111296145957
+29,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.35005035296724973,0.37674980650276785,0.026699453535518114
+30,random_forest,pr_auc,Baseline,All Prompt Risk Features,0.6399200940663239,0.700779725817214,0.06085963175089015
+1,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4008559764700566,0.4869785773736553,0.08612260090359869
+2,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4246014317189349,0.33128974459173754,-0.09331168712719734
+3,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4395829450159289,0.5560783742162738,0.11649542920034489
+4,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.47358380492113156,0.5579713426062097,0.08438753768507817
+5,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4840139366319752,0.4720953473666003,-0.011918589265374868
+6,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.3891520735777544,0.4281428168680295,0.03899074329027513
+7,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.45304242004987744,0.6087814301705872,0.15573901012070973
+8,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4897537126513545,0.48626369989552887,-0.003490012755825611
+9,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.7673013940151916,0.8212582329150012,0.05395683889980962
+10,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4444544038542614,0.43729966111795804,-0.007154742736303343
+11,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5899301703349746,0.5108480842962,-0.07908208603877465
+12,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.599261629550352,0.577256205877257,-0.022005423673094993
+13,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4709927873340051,0.5799522883417321,0.10895950100772694
+14,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.35022616594769784,0.3848906340343423,0.03466446808664447
+15,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4564472361674882,0.5483920434334726,0.09194480726598436
+16,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.43835821754080645,0.4119979432786131,-0.02636027426219334
+17,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5008533030973442,0.5142355623267318,0.013382259229387627
+18,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.41499462979153,0.43634548196197287,0.021350852170442858
+19,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.46258253419768475,0.5478601751037773,0.08527764090609252
+20,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5607617529373865,0.794137189659563,0.23337543672217653
+21,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5484274162296356,0.4493912076572657,-0.09903620857236994
+22,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5111539172045809,0.5240493605337224,0.012895443329141498
+23,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4679270202693238,0.5074456899228815,0.039518669653557714
+24,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.3942636422624236,0.6594268761087568,0.2651632338463332
+25,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4889559698870635,0.4832982992324844,-0.005657670654579117
+26,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5934789442021721,0.6577000406460853,0.06422109644391327
+27,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.5125310740280671,0.5354200495020306,0.022888975473963513
+28,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.4058982742812287,0.5358125725957115,0.12991429831448276
+29,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.35005035296724973,0.3952255951249658,0.04517524215771607
+30,random_forest,pr_auc,Baseline,Baseline + All Prompt Risk Features,0.6399200940663239,0.7080819956731871,0.0681619016068632
+1,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5535714285714286,0.32142857142857145,-0.23214285714285715
+2,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5833333333333334,0.3125,-0.27083333333333337
+3,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6875,0.265625,-0.421875
+4,logistic_regression,recall_1,Baseline,Sensitive Operation,0.45588235294117646,0.38235294117647056,-0.0735294117647059
+5,logistic_regression,recall_1,Baseline,Sensitive Operation,0.55,0.3333333333333333,-0.21666666666666673
+6,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6222222222222222,0.3333333333333333,-0.2888888888888889
+7,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5573770491803278,0.4918032786885246,-0.06557377049180324
+8,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6935483870967742,0.6612903225806451,-0.032258064516129115
+9,logistic_regression,recall_1,Baseline,Sensitive Operation,0.4943820224719101,0.33707865168539325,-0.15730337078651685
+10,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6923076923076923,0.3230769230769231,-0.3692307692307692
+11,logistic_regression,recall_1,Baseline,Sensitive Operation,0.4788732394366197,0.5492957746478874,0.07042253521126768
+12,logistic_regression,recall_1,Baseline,Sensitive Operation,0.4722222222222222,0.5,0.02777777777777779
+13,logistic_regression,recall_1,Baseline,Sensitive Operation,0.38095238095238093,0.5238095238095238,0.1428571428571429
+14,logistic_regression,recall_1,Baseline,Sensitive Operation,0.723404255319149,0.723404255319149,0.0
+15,logistic_regression,recall_1,Baseline,Sensitive Operation,0.546875,0.375,-0.171875
+16,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5535714285714286,0.6071428571428571,0.05357142857142849
+17,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5263157894736842,0.3157894736842105,-0.21052631578947367
+18,logistic_regression,recall_1,Baseline,Sensitive Operation,0.49122807017543857,0.3333333333333333,-0.15789473684210525
+19,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5384615384615384,0.5,-0.038461538461538436
+20,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5176470588235295,0.6941176470588235,0.17647058823529405
+21,logistic_regression,recall_1,Baseline,Sensitive Operation,0.576271186440678,0.4406779661016949,-0.13559322033898308
+22,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5223880597014925,0.29850746268656714,-0.22388059701492535
+23,logistic_regression,recall_1,Baseline,Sensitive Operation,0.676923076923077,0.46153846153846156,-0.2153846153846154
+24,logistic_regression,recall_1,Baseline,Sensitive Operation,0.76,0.56,-0.19999999999999996
+25,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5084745762711864,0.576271186440678,0.06779661016949157
+26,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6805555555555556,0.8888888888888888,0.20833333333333326
+27,logistic_regression,recall_1,Baseline,Sensitive Operation,0.48484848484848486,0.13636363636363635,-0.3484848484848485
+28,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5932203389830508,0.559322033898305,-0.03389830508474578
+29,logistic_regression,recall_1,Baseline,Sensitive Operation,0.6862745098039216,0.37254901960784315,-0.3137254901960784
+30,logistic_regression,recall_1,Baseline,Sensitive Operation,0.5125,0.4125,-0.09999999999999998
+1,logistic_regression,recall_1,Baseline,Technical Specificity,0.5535714285714286,0.6071428571428571,0.05357142857142849
+2,logistic_regression,recall_1,Baseline,Technical Specificity,0.5833333333333334,0.5625,-0.02083333333333337
+3,logistic_regression,recall_1,Baseline,Technical Specificity,0.6875,0.671875,-0.015625
+4,logistic_regression,recall_1,Baseline,Technical Specificity,0.45588235294117646,0.5588235294117647,0.10294117647058826
+5,logistic_regression,recall_1,Baseline,Technical Specificity,0.55,0.55,0.0
+6,logistic_regression,recall_1,Baseline,Technical Specificity,0.6222222222222222,0.5777777777777777,-0.04444444444444451
+7,logistic_regression,recall_1,Baseline,Technical Specificity,0.5573770491803278,0.4262295081967213,-0.13114754098360654
+8,logistic_regression,recall_1,Baseline,Technical Specificity,0.6935483870967742,0.4032258064516129,-0.29032258064516137
+9,logistic_regression,recall_1,Baseline,Technical Specificity,0.4943820224719101,0.5168539325842697,0.022471910112359605
+10,logistic_regression,recall_1,Baseline,Technical Specificity,0.6923076923076923,0.4,-0.29230769230769227
+11,logistic_regression,recall_1,Baseline,Technical Specificity,0.4788732394366197,0.49295774647887325,0.014084507042253558
+12,logistic_regression,recall_1,Baseline,Technical Specificity,0.4722222222222222,0.4305555555555556,-0.04166666666666663
+13,logistic_regression,recall_1,Baseline,Technical Specificity,0.38095238095238093,0.6507936507936508,0.2698412698412699
+14,logistic_regression,recall_1,Baseline,Technical Specificity,0.723404255319149,0.46808510638297873,-0.25531914893617025
+15,logistic_regression,recall_1,Baseline,Technical Specificity,0.546875,0.546875,0.0
+16,logistic_regression,recall_1,Baseline,Technical Specificity,0.5535714285714286,0.7321428571428571,0.1785714285714285
+17,logistic_regression,recall_1,Baseline,Technical Specificity,0.5263157894736842,0.7543859649122807,0.22807017543859653
+18,logistic_regression,recall_1,Baseline,Technical Specificity,0.49122807017543857,0.5263157894736842,0.03508771929824561
+19,logistic_regression,recall_1,Baseline,Technical Specificity,0.5384615384615384,0.4807692307692308,-0.057692307692307654
+20,logistic_regression,recall_1,Baseline,Technical Specificity,0.5176470588235295,0.5058823529411764,-0.01176470588235301
+21,logistic_regression,recall_1,Baseline,Technical Specificity,0.576271186440678,0.3728813559322034,-0.2033898305084746
+22,logistic_regression,recall_1,Baseline,Technical Specificity,0.5223880597014925,0.582089552238806,0.059701492537313494
+23,logistic_regression,recall_1,Baseline,Technical Specificity,0.676923076923077,0.6,-0.07692307692307698
+24,logistic_regression,recall_1,Baseline,Technical Specificity,0.76,0.48,-0.28
+25,logistic_regression,recall_1,Baseline,Technical Specificity,0.5084745762711864,0.7288135593220338,0.22033898305084743
+26,logistic_regression,recall_1,Baseline,Technical Specificity,0.6805555555555556,0.5416666666666666,-0.13888888888888895
+27,logistic_regression,recall_1,Baseline,Technical Specificity,0.48484848484848486,0.6060606060606061,0.12121212121212122
+28,logistic_regression,recall_1,Baseline,Technical Specificity,0.5932203389830508,0.4745762711864407,-0.11864406779661013
+29,logistic_regression,recall_1,Baseline,Technical Specificity,0.6862745098039216,0.7254901960784313,0.039215686274509776
+30,logistic_regression,recall_1,Baseline,Technical Specificity,0.5125,0.4875,-0.024999999999999967
+1,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5535714285714286,0.9285714285714286,0.375
+2,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5833333333333334,0.4583333333333333,-0.12500000000000006
+3,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6875,0.46875,-0.21875
+4,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.45588235294117646,0.9558823529411765,0.5
+5,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.55,0.9333333333333333,0.3833333333333333
+6,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6222222222222222,0.9111111111111111,0.28888888888888886
+7,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5573770491803278,0.8032786885245902,0.24590163934426235
+8,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6935483870967742,0.9354838709677419,0.24193548387096764
+9,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.4943820224719101,0.651685393258427,0.1573033707865169
+10,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6923076923076923,0.6923076923076923,0.0
+11,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.4788732394366197,0.971830985915493,0.4929577464788733
+12,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.4722222222222222,0.8472222222222222,0.375
+13,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.38095238095238093,0.9206349206349206,0.5396825396825397
+14,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.723404255319149,0.7446808510638298,0.02127659574468077
+15,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.546875,0.953125,0.40625
+16,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5535714285714286,0.9285714285714286,0.375
+17,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5263157894736842,0.9473684210526315,0.42105263157894735
+18,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.49122807017543857,1.0,0.5087719298245614
+19,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5384615384615384,0.75,0.21153846153846156
+20,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5176470588235295,0.9882352941176471,0.47058823529411764
+21,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.576271186440678,0.8813559322033898,0.30508474576271183
+22,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5223880597014925,1.0,0.4776119402985075
+23,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.676923076923077,0.6461538461538462,-0.03076923076923077
+24,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.76,0.62,-0.14
+25,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5084745762711864,1.0,0.4915254237288136
+26,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6805555555555556,0.7777777777777778,0.09722222222222221
+27,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.48484848484848486,0.9393939393939394,0.4545454545454546
+28,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5932203389830508,0.9322033898305084,0.3389830508474576
+29,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.6862745098039216,0.6862745098039216,0.0
+30,logistic_regression,recall_1,Baseline,Structural / Constraint Signals,0.5125,0.55,0.03750000000000009
+1,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5535714285714286,0.5357142857142857,-0.017857142857142905
+2,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5833333333333334,0.5625,-0.02083333333333337
+3,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6875,0.5,-0.1875
+4,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.45588235294117646,0.5588235294117647,0.10294117647058826
+5,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.55,0.5666666666666667,0.016666666666666607
+6,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6222222222222222,0.6666666666666666,0.0444444444444444
+7,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5573770491803278,0.5737704918032787,0.016393442622950838
+8,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6935483870967742,0.7258064516129032,0.032258064516129004
+9,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.4943820224719101,0.4943820224719101,0.0
+10,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6923076923076923,0.36923076923076925,-0.32307692307692304
+11,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.4788732394366197,0.5352112676056338,0.056338028169014065
+12,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.4722222222222222,0.6388888888888888,0.16666666666666663
+13,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.38095238095238093,0.7936507936507936,0.4126984126984127
+14,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.723404255319149,0.851063829787234,0.12765957446808507
+15,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.546875,0.65625,0.109375
+16,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5535714285714286,0.6607142857142857,0.1071428571428571
+17,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5263157894736842,0.38596491228070173,-0.14035087719298245
+18,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.49122807017543857,0.5964912280701754,0.10526315789473684
+19,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5384615384615384,0.6153846153846154,0.07692307692307698
+20,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5176470588235295,0.6352941176470588,0.11764705882352933
+21,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.576271186440678,0.4915254237288136,-0.0847457627118644
+22,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5223880597014925,0.4626865671641791,-0.05970149253731338
+23,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.676923076923077,0.5692307692307692,-0.10769230769230775
+24,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.76,0.78,0.020000000000000018
+25,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5084745762711864,0.6101694915254238,0.10169491525423735
+26,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6805555555555556,0.625,-0.05555555555555558
+27,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.48484848484848486,0.36363636363636365,-0.12121212121212122
+28,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5932203389830508,0.5932203389830508,0.0
+29,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.6862745098039216,0.6470588235294118,-0.039215686274509776
+30,logistic_regression,recall_1,Baseline,All Prompt Risk Features,0.5125,0.425,-0.08749999999999997
+1,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5535714285714286,0.5178571428571429,-0.0357142857142857
+2,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5833333333333334,0.4791666666666667,-0.10416666666666669
+3,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6875,0.546875,-0.140625
+4,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.45588235294117646,0.5735294117647058,0.11764705882352938
+5,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.55,0.5166666666666667,-0.033333333333333326
+6,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6222222222222222,0.5777777777777777,-0.04444444444444451
+7,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5573770491803278,0.6229508196721312,0.06557377049180335
+8,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6935483870967742,0.7258064516129032,0.032258064516129004
+9,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.4943820224719101,0.5168539325842697,0.022471910112359605
+10,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6923076923076923,0.35384615384615387,-0.3384615384615384
+11,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.4788732394366197,0.5492957746478874,0.07042253521126768
+12,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.4722222222222222,0.6527777777777778,0.18055555555555558
+13,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.38095238095238093,0.7619047619047619,0.38095238095238093
+14,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.723404255319149,0.7872340425531915,0.06382978723404253
+15,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.546875,0.71875,0.171875
+16,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5535714285714286,0.625,0.0714285714285714
+17,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5263157894736842,0.543859649122807,0.01754385964912286
+18,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.49122807017543857,0.5263157894736842,0.03508771929824561
+19,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5384615384615384,0.6153846153846154,0.07692307692307698
+20,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5176470588235295,0.6705882352941176,0.15294117647058814
+21,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.576271186440678,0.4915254237288136,-0.0847457627118644
+22,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5223880597014925,0.5074626865671642,-0.01492537313432829
+23,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.676923076923077,0.5846153846153846,-0.09230769230769231
+24,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.76,0.7,-0.06000000000000005
+25,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5084745762711864,0.6779661016949152,0.1694915254237288
+26,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6805555555555556,0.6666666666666666,-0.01388888888888895
+27,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.48484848484848486,0.4696969696969697,-0.015151515151515138
+28,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5932203389830508,0.576271186440678,-0.016949152542372836
+29,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6862745098039216,0.6274509803921569,-0.05882352941176472
+30,logistic_regression,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5125,0.525,0.012500000000000067
+1,random_forest,recall_1,Baseline,Sensitive Operation,0.5178571428571429,0.5357142857142857,0.017857142857142794
+2,random_forest,recall_1,Baseline,Sensitive Operation,0.5,0.625,0.125
+3,random_forest,recall_1,Baseline,Sensitive Operation,0.59375,0.703125,0.109375
+4,random_forest,recall_1,Baseline,Sensitive Operation,0.5588235294117647,0.47058823529411764,-0.08823529411764708
+5,random_forest,recall_1,Baseline,Sensitive Operation,0.6333333333333333,0.6166666666666667,-0.016666666666666607
+6,random_forest,recall_1,Baseline,Sensitive Operation,0.5777777777777777,0.5777777777777777,0.0
+7,random_forest,recall_1,Baseline,Sensitive Operation,0.6229508196721312,0.6885245901639344,0.06557377049180324
+8,random_forest,recall_1,Baseline,Sensitive Operation,0.532258064516129,0.7096774193548387,0.17741935483870974
+9,random_forest,recall_1,Baseline,Sensitive Operation,0.6292134831460674,0.6853932584269663,0.0561797752808989
+10,random_forest,recall_1,Baseline,Sensitive Operation,0.47692307692307695,0.5076923076923077,0.030769230769230715
+11,random_forest,recall_1,Baseline,Sensitive Operation,0.6901408450704225,0.5211267605633803,-0.16901408450704225
+12,random_forest,recall_1,Baseline,Sensitive Operation,0.5555555555555556,0.4444444444444444,-0.11111111111111116
+13,random_forest,recall_1,Baseline,Sensitive Operation,0.3333333333333333,0.7936507936507936,0.4603174603174603
+14,random_forest,recall_1,Baseline,Sensitive Operation,0.7021276595744681,0.5531914893617021,-0.14893617021276595
+15,random_forest,recall_1,Baseline,Sensitive Operation,0.46875,0.46875,0.0
+16,random_forest,recall_1,Baseline,Sensitive Operation,0.5178571428571429,0.7321428571428571,0.2142857142857142
+17,random_forest,recall_1,Baseline,Sensitive Operation,0.45614035087719296,0.5087719298245614,0.052631578947368474
+18,random_forest,recall_1,Baseline,Sensitive Operation,0.5263157894736842,0.5964912280701754,0.07017543859649122
+19,random_forest,recall_1,Baseline,Sensitive Operation,0.6923076923076923,0.6153846153846154,-0.07692307692307687
+20,random_forest,recall_1,Baseline,Sensitive Operation,0.5764705882352941,0.6588235294117647,0.08235294117647063
+21,random_forest,recall_1,Baseline,Sensitive Operation,0.6271186440677966,0.7627118644067796,0.13559322033898302
+22,random_forest,recall_1,Baseline,Sensitive Operation,0.44776119402985076,0.5223880597014925,0.07462686567164173
+23,random_forest,recall_1,Baseline,Sensitive Operation,0.36923076923076925,0.5538461538461539,0.18461538461538463
+24,random_forest,recall_1,Baseline,Sensitive Operation,0.56,0.66,0.09999999999999998
+25,random_forest,recall_1,Baseline,Sensitive Operation,0.6949152542372882,0.5423728813559322,-0.15254237288135597
+26,random_forest,recall_1,Baseline,Sensitive Operation,0.375,0.6111111111111112,0.23611111111111116
+27,random_forest,recall_1,Baseline,Sensitive Operation,0.6818181818181818,0.4696969696969697,-0.21212121212121204
+28,random_forest,recall_1,Baseline,Sensitive Operation,0.559322033898305,0.4745762711864407,-0.08474576271186435
+29,random_forest,recall_1,Baseline,Sensitive Operation,0.23529411764705882,0.47058823529411764,0.23529411764705882
+30,random_forest,recall_1,Baseline,Sensitive Operation,0.625,0.45,-0.175
+1,random_forest,recall_1,Baseline,Technical Specificity,0.5178571428571429,0.5892857142857143,0.0714285714285714
+2,random_forest,recall_1,Baseline,Technical Specificity,0.5,0.6666666666666666,0.16666666666666663
+3,random_forest,recall_1,Baseline,Technical Specificity,0.59375,0.578125,-0.015625
+4,random_forest,recall_1,Baseline,Technical Specificity,0.5588235294117647,0.6617647058823529,0.1029411764705882
+5,random_forest,recall_1,Baseline,Technical Specificity,0.6333333333333333,0.4166666666666667,-0.21666666666666662
+6,random_forest,recall_1,Baseline,Technical Specificity,0.5777777777777777,0.3333333333333333,-0.2444444444444444
+7,random_forest,recall_1,Baseline,Technical Specificity,0.6229508196721312,0.47540983606557374,-0.14754098360655743
+8,random_forest,recall_1,Baseline,Technical Specificity,0.532258064516129,0.5483870967741935,0.016129032258064502
+9,random_forest,recall_1,Baseline,Technical Specificity,0.6292134831460674,0.5617977528089888,-0.0674157303370786
+10,random_forest,recall_1,Baseline,Technical Specificity,0.47692307692307695,0.36923076923076925,-0.1076923076923077
+11,random_forest,recall_1,Baseline,Technical Specificity,0.6901408450704225,0.39436619718309857,-0.29577464788732394
+12,random_forest,recall_1,Baseline,Technical Specificity,0.5555555555555556,0.2638888888888889,-0.2916666666666667
+13,random_forest,recall_1,Baseline,Technical Specificity,0.3333333333333333,0.7301587301587301,0.3968253968253968
+14,random_forest,recall_1,Baseline,Technical Specificity,0.7021276595744681,0.851063829787234,0.14893617021276595
+15,random_forest,recall_1,Baseline,Technical Specificity,0.46875,0.671875,0.203125
+16,random_forest,recall_1,Baseline,Technical Specificity,0.5178571428571429,0.4642857142857143,-0.0535714285714286
+17,random_forest,recall_1,Baseline,Technical Specificity,0.45614035087719296,0.6842105263157895,0.22807017543859653
+18,random_forest,recall_1,Baseline,Technical Specificity,0.5263157894736842,0.40350877192982454,-0.12280701754385964
+19,random_forest,recall_1,Baseline,Technical Specificity,0.6923076923076923,0.7307692307692307,0.038461538461538436
+20,random_forest,recall_1,Baseline,Technical Specificity,0.5764705882352941,0.5058823529411764,-0.07058823529411762
+21,random_forest,recall_1,Baseline,Technical Specificity,0.6271186440677966,0.7966101694915254,0.1694915254237288
+22,random_forest,recall_1,Baseline,Technical Specificity,0.44776119402985076,0.47761194029850745,0.02985074626865669
+23,random_forest,recall_1,Baseline,Technical Specificity,0.36923076923076925,0.6,0.23076923076923073
+24,random_forest,recall_1,Baseline,Technical Specificity,0.56,0.66,0.09999999999999998
+25,random_forest,recall_1,Baseline,Technical Specificity,0.6949152542372882,0.6101694915254238,-0.0847457627118644
+26,random_forest,recall_1,Baseline,Technical Specificity,0.375,0.8194444444444444,0.4444444444444444
+27,random_forest,recall_1,Baseline,Technical Specificity,0.6818181818181818,0.5757575757575758,-0.10606060606060597
+28,random_forest,recall_1,Baseline,Technical Specificity,0.559322033898305,0.4915254237288136,-0.06779661016949146
+29,random_forest,recall_1,Baseline,Technical Specificity,0.23529411764705882,0.47058823529411764,0.23529411764705882
+30,random_forest,recall_1,Baseline,Technical Specificity,0.625,0.7375,0.11250000000000004
+1,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5178571428571429,0.8571428571428571,0.3392857142857142
+2,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5,0.4583333333333333,-0.041666666666666685
+3,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.59375,0.5625,-0.03125
+4,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5588235294117647,0.8970588235294118,0.3382352941176471
+5,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6333333333333333,0.4666666666666667,-0.16666666666666663
+6,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5777777777777777,0.8222222222222222,0.24444444444444446
+7,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6229508196721312,0.5409836065573771,-0.08196721311475408
+8,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.532258064516129,0.6935483870967742,0.16129032258064524
+9,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6292134831460674,0.7865168539325843,0.1573033707865169
+10,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.47692307692307695,0.7538461538461538,0.2769230769230769
+11,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6901408450704225,0.9436619718309859,0.2535211267605634
+12,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5555555555555556,0.9027777777777778,0.3472222222222222
+13,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.3333333333333333,0.7619047619047619,0.42857142857142855
+14,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.7021276595744681,0.6595744680851063,-0.042553191489361764
+15,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.46875,0.6875,0.21875
+16,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5178571428571429,0.8035714285714286,0.2857142857142857
+17,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.45614035087719296,0.9473684210526315,0.49122807017543857
+18,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5263157894736842,0.7368421052631579,0.21052631578947367
+19,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6923076923076923,0.7884615384615384,0.09615384615384615
+20,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.5764705882352941,0.8117647058823529,0.23529411764705888
+21,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6271186440677966,0.7457627118644068,0.11864406779661019
+22,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.44776119402985076,0.4626865671641791,0.014925373134328346
+23,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.36923076923076925,0.7692307692307693,0.4
+24,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.56,0.7,0.1399999999999999
+25,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6949152542372882,0.864406779661017,0.1694915254237288
+26,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.375,0.7777777777777778,0.4027777777777778
+27,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.6818181818181818,0.7878787878787878,0.10606060606060608
+28,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.559322033898305,0.864406779661017,0.30508474576271194
+29,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.23529411764705882,0.8431372549019608,0.607843137254902
+30,random_forest,recall_1,Baseline,Structural / Constraint Signals,0.625,0.6,-0.025000000000000022
+1,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5178571428571429,0.5535714285714286,0.0357142857142857
+2,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5,0.3333333333333333,-0.16666666666666669
+3,random_forest,recall_1,Baseline,All Prompt Risk Features,0.59375,0.28125,-0.3125
+4,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5588235294117647,0.38235294117647056,-0.17647058823529416
+5,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6333333333333333,0.5,-0.1333333333333333
+6,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5777777777777777,0.4222222222222222,-0.1555555555555555
+7,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6229508196721312,0.6229508196721312,0.0
+8,random_forest,recall_1,Baseline,All Prompt Risk Features,0.532258064516129,0.532258064516129,0.0
+9,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6292134831460674,0.47191011235955055,-0.15730337078651685
+10,random_forest,recall_1,Baseline,All Prompt Risk Features,0.47692307692307695,0.27692307692307694,-0.2
+11,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6901408450704225,0.49295774647887325,-0.19718309859154926
+12,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5555555555555556,0.1527777777777778,-0.4027777777777778
+13,random_forest,recall_1,Baseline,All Prompt Risk Features,0.3333333333333333,0.6190476190476191,0.28571428571428575
+14,random_forest,recall_1,Baseline,All Prompt Risk Features,0.7021276595744681,0.46808510638297873,-0.23404255319148937
+15,random_forest,recall_1,Baseline,All Prompt Risk Features,0.46875,0.515625,0.046875
+16,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5178571428571429,0.4642857142857143,-0.0535714285714286
+17,random_forest,recall_1,Baseline,All Prompt Risk Features,0.45614035087719296,0.38596491228070173,-0.07017543859649122
+18,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5263157894736842,0.2631578947368421,-0.2631578947368421
+19,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6923076923076923,0.6923076923076923,0.0
+20,random_forest,recall_1,Baseline,All Prompt Risk Features,0.5764705882352941,0.38823529411764707,-0.188235294117647
+21,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6271186440677966,0.5084745762711864,-0.11864406779661019
+22,random_forest,recall_1,Baseline,All Prompt Risk Features,0.44776119402985076,0.34328358208955223,-0.10447761194029853
+23,random_forest,recall_1,Baseline,All Prompt Risk Features,0.36923076923076925,0.5076923076923077,0.1384615384615384
+24,random_forest,recall_1,Baseline,All Prompt Risk Features,0.56,0.64,0.07999999999999996
+25,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6949152542372882,0.5932203389830508,-0.10169491525423735
+26,random_forest,recall_1,Baseline,All Prompt Risk Features,0.375,0.4444444444444444,0.06944444444444442
+27,random_forest,recall_1,Baseline,All Prompt Risk Features,0.6818181818181818,0.42424242424242425,-0.2575757575757575
+28,random_forest,recall_1,Baseline,All Prompt Risk Features,0.559322033898305,0.5423728813559322,-0.016949152542372836
+29,random_forest,recall_1,Baseline,All Prompt Risk Features,0.23529411764705882,0.37254901960784315,0.13725490196078433
+30,random_forest,recall_1,Baseline,All Prompt Risk Features,0.625,0.4875,-0.1375
+1,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5178571428571429,0.625,0.1071428571428571
+2,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5,0.3333333333333333,-0.16666666666666669
+3,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.59375,0.421875,-0.171875
+4,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5588235294117647,0.38235294117647056,-0.17647058823529416
+5,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6333333333333333,0.45,-0.1833333333333333
+6,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5777777777777777,0.4666666666666667,-0.11111111111111105
+7,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6229508196721312,0.4918032786885246,-0.1311475409836066
+8,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.532258064516129,0.5806451612903226,0.048387096774193616
+9,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6292134831460674,0.4044943820224719,-0.2247191011235955
+10,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.47692307692307695,0.3230769230769231,-0.15384615384615385
+11,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6901408450704225,0.4084507042253521,-0.2816901408450704
+12,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5555555555555556,0.3888888888888889,-0.16666666666666669
+13,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.3333333333333333,0.5555555555555556,0.22222222222222227
+14,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.7021276595744681,0.6170212765957447,-0.08510638297872342
+15,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.46875,0.59375,0.125
+16,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5178571428571429,0.5714285714285714,0.05357142857142849
+17,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.45614035087719296,0.38596491228070173,-0.07017543859649122
+18,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5263157894736842,0.3684210526315789,-0.15789473684210525
+19,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6923076923076923,0.7115384615384616,0.019230769230769273
+20,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.5764705882352941,0.5176470588235295,-0.05882352941176461
+21,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6271186440677966,0.4406779661016949,-0.1864406779661017
+22,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.44776119402985076,0.417910447761194,-0.029850746268656747
+23,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.36923076923076925,0.5692307692307692,0.19999999999999996
+24,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.56,0.72,0.15999999999999992
+25,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6949152542372882,0.6949152542372882,0.0
+26,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.375,0.6111111111111112,0.23611111111111116
+27,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.6818181818181818,0.5454545454545454,-0.13636363636363635
+28,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.559322033898305,0.6949152542372882,0.13559322033898313
+29,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.23529411764705882,0.45098039215686275,0.21568627450980393
+30,random_forest,recall_1,Baseline,Baseline + All Prompt Risk Features,0.625,0.35,-0.275
+1,logistic_regression,f1_1,Baseline,Sensitive Operation,0.484375,0.3333333333333333,-0.15104166666666669
+2,logistic_regression,f1_1,Baseline,Sensitive Operation,0.4745762711864407,0.3409090909090909,-0.1336671802773498
+3,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5641025641025641,0.38636363636363635,-0.17773892773892774
+4,logistic_regression,f1_1,Baseline,Sensitive Operation,0.484375,0.48148148148148145,-0.0028935185185185452
+5,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5,0.38461538461538464,-0.11538461538461536
+6,logistic_regression,f1_1,Baseline,Sensitive Operation,0.48695652173913045,0.37037037037037035,-0.1165861513687601
+7,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5151515151515151,0.5714285714285714,0.05627705627705626
+8,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5972222222222222,0.5466666666666666,-0.050555555555555576
+9,logistic_regression,f1_1,Baseline,Sensitive Operation,0.6027397260273972,0.49586776859504134,-0.10687195743235589
+10,logistic_regression,f1_1,Baseline,Sensitive Operation,0.6,0.336,-0.26399999999999996
+11,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5,0.6141732283464567,0.11417322834645671
+12,logistic_regression,f1_1,Baseline,Sensitive Operation,0.53125,0.5625,0.03125
+13,logistic_regression,f1_1,Baseline,Sensitive Operation,0.42105263157894735,0.5945945945945946,0.17354196301564728
+14,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5230769230769231,0.591304347826087,0.06822742474916388
+15,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5343511450381679,0.42857142857142855,-0.10577971646673939
+16,logistic_regression,f1_1,Baseline,Sensitive Operation,0.4806201550387597,0.5483870967741935,0.0677669417354338
+17,logistic_regression,f1_1,Baseline,Sensitive Operation,0.47244094488188976,0.3870967741935484,-0.08534417068834138
+18,logistic_regression,f1_1,Baseline,Sensitive Operation,0.47058823529411764,0.37623762376237624,-0.0943506115317414
+19,logistic_regression,f1_1,Baseline,Sensitive Operation,0.4375,0.48148148148148145,0.043981481481481455
+20,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5751633986928104,0.6982248520710059,0.12306145337819552
+21,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5396825396825397,0.48598130841121495,-0.0537012312713247
+22,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5,0.42105263157894735,-0.07894736842105265
+23,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5866666666666667,0.49586776859504134,-0.09079889807162533
+24,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5033112582781457,0.5957446808510638,0.09243342257291809
+25,logistic_regression,f1_1,Baseline,Sensitive Operation,0.47244094488188976,0.4755244755244755,0.0030835306425857634
+26,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5833333333333334,0.6530612244897959,0.0697278911564625
+27,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5289256198347108,0.20930232558139536,-0.31962329425331537
+28,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5185185185185185,0.5365853658536586,0.01806684733514008
+29,logistic_regression,f1_1,Baseline,Sensitive Operation,0.546875,0.4,-0.14687499999999998
+30,logistic_regression,f1_1,Baseline,Sensitive Operation,0.5578231292517006,0.515625,-0.04219812925170063
+1,logistic_regression,f1_1,Baseline,Technical Specificity,0.484375,0.4594594594594595,-0.024915540540540515
+2,logistic_regression,f1_1,Baseline,Technical Specificity,0.4745762711864407,0.5,0.02542372881355931
+3,logistic_regression,f1_1,Baseline,Technical Specificity,0.5641025641025641,0.5972222222222222,0.03311965811965811
+4,logistic_regression,f1_1,Baseline,Technical Specificity,0.484375,0.5,0.015625
+5,logistic_regression,f1_1,Baseline,Technical Specificity,0.5,0.532258064516129,0.032258064516129004
+6,logistic_regression,f1_1,Baseline,Technical Specificity,0.48695652173913045,0.46017699115044247,-0.026779530588687983
+7,logistic_regression,f1_1,Baseline,Technical Specificity,0.5151515151515151,0.40310077519379844,-0.1120507399577167
+8,logistic_regression,f1_1,Baseline,Technical Specificity,0.5972222222222222,0.423728813559322,-0.1734934086629002
+9,logistic_regression,f1_1,Baseline,Technical Specificity,0.6027397260273972,0.6013071895424836,-0.0014325364849135935
+10,logistic_regression,f1_1,Baseline,Technical Specificity,0.6,0.416,-0.184
+11,logistic_regression,f1_1,Baseline,Technical Specificity,0.5,0.47619047619047616,-0.023809523809523836
+12,logistic_regression,f1_1,Baseline,Technical Specificity,0.53125,0.484375,-0.046875
+13,logistic_regression,f1_1,Baseline,Technical Specificity,0.42105263157894735,0.5899280575539568,0.16887542597500949
+14,logistic_regression,f1_1,Baseline,Technical Specificity,0.5230769230769231,0.4444444444444444,-0.07863247863247869
+15,logistic_regression,f1_1,Baseline,Technical Specificity,0.5343511450381679,0.4861111111111111,-0.048240033927056836
+16,logistic_regression,f1_1,Baseline,Technical Specificity,0.4806201550387597,0.6212121212121212,0.1405919661733615
+17,logistic_regression,f1_1,Baseline,Technical Specificity,0.47244094488188976,0.6099290780141844,0.13748813313229463
+18,logistic_regression,f1_1,Baseline,Technical Specificity,0.47058823529411764,0.48,0.009411764705882342
+19,logistic_regression,f1_1,Baseline,Technical Specificity,0.4375,0.44642857142857145,0.008928571428571452
+20,logistic_regression,f1_1,Baseline,Technical Specificity,0.5751633986928104,0.5341614906832298,-0.04100190800958059
+21,logistic_regression,f1_1,Baseline,Technical Specificity,0.5396825396825397,0.3826086956521739,-0.15707384403036573
+22,logistic_regression,f1_1,Baseline,Technical Specificity,0.5,0.5611510791366906,0.0611510791366906
+23,logistic_regression,f1_1,Baseline,Technical Specificity,0.5866666666666667,0.5693430656934306,-0.017323600973236042
+24,logistic_regression,f1_1,Baseline,Technical Specificity,0.5033112582781457,0.39344262295081966,-0.10986863532732605
+25,logistic_regression,f1_1,Baseline,Technical Specificity,0.47244094488188976,0.5695364238410596,0.09709547895916987
+26,logistic_regression,f1_1,Baseline,Technical Specificity,0.5833333333333334,0.609375,0.02604166666666663
+27,logistic_regression,f1_1,Baseline,Technical Specificity,0.5289256198347108,0.5633802816901409,0.03445466185543011
+28,logistic_regression,f1_1,Baseline,Technical Specificity,0.5185185185185185,0.47058823529411764,-0.04793028322440085
+29,logistic_regression,f1_1,Baseline,Technical Specificity,0.546875,0.6016260162601627,0.054751016260162655
+30,logistic_regression,f1_1,Baseline,Technical Specificity,0.5578231292517006,0.5,-0.05782312925170063
+1,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.484375,0.5652173913043478,0.08084239130434778
+2,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.4745762711864407,0.3333333333333333,-0.14124293785310738
+3,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5641025641025641,0.4411764705882353,-0.12292609351432882
+4,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.484375,0.6632653061224489,0.17889030612244894
+5,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5,0.6511627906976745,0.15116279069767447
+6,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.48695652173913045,0.49696969696969695,0.010013175230566496
+7,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5151515151515151,0.593939393939394,0.07878787878787885
+8,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5972222222222222,0.6236559139784946,0.026433691756272415
+9,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.6027397260273972,0.6408839779005525,0.03814425187315529
+10,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.6,0.5325443786982249,-0.06745562130177507
+11,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5,0.7076923076923077,0.20769230769230773
+12,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.53125,0.6630434782608695,0.1317934782608695
+13,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.42105263157894735,0.6480446927374302,0.2269920611584828
+14,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5230769230769231,0.46357615894039733,-0.059500764136525774
+15,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5343511450381679,0.6224489795918368,0.08809783455366882
+16,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.4806201550387597,0.5777777777777777,0.09715762273901801
+17,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.47244094488188976,0.6101694915254238,0.137728546643534
+18,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.47058823529411764,0.6031746031746031,0.1325863678804855
+19,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.4375,0.5131578947368421,0.07565789473684215
+20,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5751633986928104,0.8195121951219512,0.24434879642914076
+21,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5396825396825397,0.6081871345029239,0.06850459482038429
+22,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5,0.6871794871794872,0.18717948717948718
+23,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5866666666666667,0.5217391304347826,-0.06492753623188408
+24,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5033112582781457,0.43661971830985913,-0.06669153996828658
+25,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.47244094488188976,0.6310160427807486,0.15857509789885887
+26,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5833333333333334,0.6222222222222222,0.03888888888888886
+27,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5289256198347108,0.6262626262626263,0.09733700642791554
+28,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5185185185185185,0.6432748538011696,0.12475633528265107
+29,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.546875,0.5185185185185185,-0.02835648148148151
+30,logistic_regression,f1_1,Baseline,Structural / Constraint Signals,0.5578231292517006,0.5365853658536586,-0.021237763398042064
+1,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.484375,0.4838709677419355,-0.0005040322580645018
+2,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.4745762711864407,0.48214285714285715,0.007566585956416461
+3,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5641025641025641,0.5517241379310345,-0.012378426171529622
+4,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.484375,0.6129032258064516,0.12852822580645162
+5,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5,0.5666666666666667,0.06666666666666665
+6,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.48695652173913045,0.5714285714285714,0.08447204968944094
+7,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5151515151515151,0.5982905982905983,0.08313908313908314
+8,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5972222222222222,0.6,0.002777777777777768
+9,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.6027397260273972,0.624113475177305,0.02137374914990775
+10,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.6,0.37209302325581395,-0.22790697674418603
+11,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5,0.5801526717557252,0.08015267175572516
+12,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.53125,0.6571428571428571,0.12589285714285714
+13,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.42105263157894735,0.6993006993006993,0.2782480677217519
+14,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5230769230769231,0.7476635514018691,0.22458662832494602
+15,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5343511450381679,0.5675675675675675,0.0332164225293996
+16,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.4806201550387597,0.5441176470588235,0.06349749202006377
+17,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.47244094488188976,0.4036697247706422,-0.06877122011124753
+18,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.47058823529411764,0.5811965811965812,0.1106083459024636
+19,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.4375,0.6153846153846154,0.17788461538461542
+20,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5751633986928104,0.6708074534161491,0.0956440547233387
+21,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5396825396825397,0.5420560747663551,0.0023735350838154368
+22,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5,0.5210084033613446,0.021008403361344574
+23,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5866666666666667,0.5736434108527132,-0.013023255813953472
+24,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5033112582781457,0.5652173913043478,0.06190613302620207
+25,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.47244094488188976,0.4897959183673469,0.01735497348545717
+26,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5833333333333334,0.625,0.04166666666666663
+27,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5289256198347108,0.39344262295081966,-0.1354829968838911
+28,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5185185185185185,0.5691056910569106,0.05058717253839207
+29,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.546875,0.5739130434782609,0.027038043478260887
+30,logistic_regression,f1_1,Baseline,All Prompt Risk Features,0.5578231292517006,0.5151515151515151,-0.042671614100185495
+1,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.484375,0.4793388429752066,-0.005036157024793375
+2,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4745762711864407,0.4144144144144144,-0.06016185677202629
+3,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5641025641025641,0.5882352941176471,0.02413273001508298
+4,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.484375,0.609375,0.125
+5,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5,0.5486725663716814,0.04867256637168138
+6,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.48695652173913045,0.52,0.03304347826086956
+7,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5151515151515151,0.6440677966101694,0.1289162814586543
+8,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5972222222222222,0.6081081081081081,0.010885885885885904
+9,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.6027397260273972,0.6433566433566433,0.040616917329246105
+10,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.6,0.35384615384615387,-0.2461538461538461
+11,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5,0.6,0.09999999999999998
+12,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.53125,0.6762589928057554,0.1450089928057554
+13,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.42105263157894735,0.676056338028169,0.25500370644922166
+14,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5230769230769231,0.6607142857142857,0.1376373626373626
+15,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5343511450381679,0.6258503401360545,0.09149919509788651
+16,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4806201550387597,0.56,0.07937984496124034
+17,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.47244094488188976,0.5391304347826087,0.06668948990071893
+18,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.47058823529411764,0.5,0.02941176470588236
+19,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4375,0.6153846153846154,0.17788461538461542
+20,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5751633986928104,0.7125,0.1373366013071896
+21,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5396825396825397,0.5370370370370371,-0.002645502645502562
+22,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5,0.5619834710743802,0.06198347107438018
+23,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5866666666666667,0.5801526717557252,-0.006513994910941512
+24,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5033112582781457,0.56,0.05668874172185434
+25,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.47244094488188976,0.54421768707483,0.07177674219294022
+26,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5833333333333334,0.6442953020134228,0.06096196868008941
+27,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5289256198347108,0.5,-0.02892561983471076
+28,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5185185185185185,0.576271186440678,0.057752667922159495
+29,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.546875,0.6037735849056604,0.056898584905660354
+30,logistic_regression,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5578231292517006,0.6086956521739131,0.05087252292221245
+1,random_forest,f1_1,Baseline,Sensitive Operation,0.49572649572649574,0.5357142857142857,0.03998778998778996
+2,random_forest,f1_1,Baseline,Sensitive Operation,0.46601941747572817,0.46875,0.0027305825242718296
+3,random_forest,f1_1,Baseline,Sensitive Operation,0.5277777777777778,0.6081081081081081,0.08033033033033032
+4,random_forest,f1_1,Baseline,Sensitive Operation,0.5467625899280576,0.5161290322580645,-0.030633557669993094
+5,random_forest,f1_1,Baseline,Sensitive Operation,0.5277777777777778,0.5441176470588235,0.016339869281045694
+6,random_forest,f1_1,Baseline,Sensitive Operation,0.5148514851485149,0.46017699115044247,-0.05467449399807239
+7,random_forest,f1_1,Baseline,Sensitive Operation,0.5390070921985816,0.6131386861313869,0.07413159393280533
+8,random_forest,f1_1,Baseline,Sensitive Operation,0.528,0.5569620253164557,0.028962025316455642
+9,random_forest,f1_1,Baseline,Sensitive Operation,0.7,0.7393939393939394,0.039393939393939426
+10,random_forest,f1_1,Baseline,Sensitive Operation,0.4626865671641791,0.48175182481751827,0.019065257653339163
+11,random_forest,f1_1,Baseline,Sensitive Operation,0.6447368421052632,0.5323741007194245,-0.11236274138583868
+12,random_forest,f1_1,Baseline,Sensitive Operation,0.583941605839416,0.5161290322580645,-0.06781257358135151
+13,random_forest,f1_1,Baseline,Sensitive Operation,0.38181818181818183,0.6289308176100629,0.24711263579188103
+14,random_forest,f1_1,Baseline,Sensitive Operation,0.4748201438848921,0.45217391304347826,-0.022646230841413817
+15,random_forest,f1_1,Baseline,Sensitive Operation,0.45454545454545453,0.46875,0.01420454545454547
+16,random_forest,f1_1,Baseline,Sensitive Operation,0.49572649572649574,0.5540540540540541,0.058327558327558315
+17,random_forest,f1_1,Baseline,Sensitive Operation,0.47706422018348627,0.43609022556390975,-0.040973994619576515
+18,random_forest,f1_1,Baseline,Sensitive Operation,0.44776119402985076,0.48226950354609927,0.0345083095162485
+19,random_forest,f1_1,Baseline,Sensitive Operation,0.5333333333333333,0.5161290322580645,-0.017204301075268824
+20,random_forest,f1_1,Baseline,Sensitive Operation,0.5764705882352941,0.6956521739130435,0.11918158567774939
+21,random_forest,f1_1,Baseline,Sensitive Operation,0.556390977443609,0.6293706293706294,0.07297965192702038
+22,random_forest,f1_1,Baseline,Sensitive Operation,0.48,0.5691056910569106,0.08910569105691057
+23,random_forest,f1_1,Baseline,Sensitive Operation,0.3902439024390244,0.5413533834586466,0.15110948101962218
+24,random_forest,f1_1,Baseline,Sensitive Operation,0.4827586206896552,0.559322033898305,0.07656341320864984
+25,random_forest,f1_1,Baseline,Sensitive Operation,0.5857142857142857,0.43537414965986393,-0.1503401360544218
+26,random_forest,f1_1,Baseline,Sensitive Operation,0.46551724137931033,0.5945945945945946,0.1290773532152843
+27,random_forest,f1_1,Baseline,Sensitive Operation,0.5960264900662252,0.5081967213114754,-0.08782976875474979
+28,random_forest,f1_1,Baseline,Sensitive Operation,0.4925373134328358,0.45528455284552843,-0.037252760587307365
+29,random_forest,f1_1,Baseline,Sensitive Operation,0.25,0.3902439024390244,0.1402439024390244
+30,random_forest,f1_1,Baseline,Sensitive Operation,0.6451612903225806,0.5294117647058824,-0.11574952561669827
+1,random_forest,f1_1,Baseline,Technical Specificity,0.49572649572649574,0.532258064516129,0.03653156878963326
+2,random_forest,f1_1,Baseline,Technical Specificity,0.46601941747572817,0.48484848484848486,0.01882906737275669
+3,random_forest,f1_1,Baseline,Technical Specificity,0.5277777777777778,0.5285714285714286,0.0007936507936507908
+4,random_forest,f1_1,Baseline,Technical Specificity,0.5467625899280576,0.6428571428571429,0.09609455292908531
+5,random_forest,f1_1,Baseline,Technical Specificity,0.5277777777777778,0.43103448275862066,-0.09674329501915713
+6,random_forest,f1_1,Baseline,Technical Specificity,0.5148514851485149,0.3225806451612903,-0.19227083998722455
+7,random_forest,f1_1,Baseline,Technical Specificity,0.5390070921985816,0.49572649572649574,-0.04328059647208582
+8,random_forest,f1_1,Baseline,Technical Specificity,0.528,0.4927536231884058,-0.035246376811594204
+9,random_forest,f1_1,Baseline,Technical Specificity,0.7,0.6211180124223602,-0.07888198757763976
+10,random_forest,f1_1,Baseline,Technical Specificity,0.4626865671641791,0.384,-0.0786865671641791
+11,random_forest,f1_1,Baseline,Technical Specificity,0.6447368421052632,0.42748091603053434,-0.21725592607472882
+12,random_forest,f1_1,Baseline,Technical Specificity,0.583941605839416,0.35185185185185186,-0.23208975398756415
+13,random_forest,f1_1,Baseline,Technical Specificity,0.38181818181818183,0.6814814814814815,0.29966329966329963
+14,random_forest,f1_1,Baseline,Technical Specificity,0.4748201438848921,0.6504065040650406,0.17558636018014856
+15,random_forest,f1_1,Baseline,Technical Specificity,0.45454545454545453,0.6142857142857143,0.1597402597402598
+16,random_forest,f1_1,Baseline,Technical Specificity,0.49572649572649574,0.43333333333333335,-0.062393162393162394
+17,random_forest,f1_1,Baseline,Technical Specificity,0.47706422018348627,0.624,0.14693577981651373
+18,random_forest,f1_1,Baseline,Technical Specificity,0.44776119402985076,0.39316239316239315,-0.05459880086745761
+19,random_forest,f1_1,Baseline,Technical Specificity,0.5333333333333333,0.5757575757575758,0.042424242424242475
+20,random_forest,f1_1,Baseline,Technical Specificity,0.5764705882352941,0.5620915032679739,-0.01437908496732021
+21,random_forest,f1_1,Baseline,Technical Specificity,0.556390977443609,0.5911949685534591,0.03480399110985011
+22,random_forest,f1_1,Baseline,Technical Specificity,0.48,0.5378151260504201,0.05781512605042016
+23,random_forest,f1_1,Baseline,Technical Specificity,0.3902439024390244,0.5693430656934306,0.17909916325440622
+24,random_forest,f1_1,Baseline,Technical Specificity,0.4827586206896552,0.6,0.11724137931034478
+25,random_forest,f1_1,Baseline,Technical Specificity,0.5857142857142857,0.549618320610687,-0.03609596510359869
+26,random_forest,f1_1,Baseline,Technical Specificity,0.46551724137931033,0.7195121951219512,0.25399495374264086
+27,random_forest,f1_1,Baseline,Technical Specificity,0.5960264900662252,0.5352112676056338,-0.060815222460591456
+28,random_forest,f1_1,Baseline,Technical Specificity,0.4925373134328358,0.48739495798319327,-0.005142355449642533
+29,random_forest,f1_1,Baseline,Technical Specificity,0.25,0.43243243243243246,0.18243243243243246
+30,random_forest,f1_1,Baseline,Technical Specificity,0.6451612903225806,0.7195121951219512,0.07435090479937057
+1,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.49572649572649574,0.5714285714285714,0.07570207570207566
+2,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.46601941747572817,0.3333333333333333,-0.13268608414239486
+3,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5277777777777778,0.4864864864864865,-0.04129129129129128
+4,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5467625899280576,0.648936170212766,0.10217358028470835
+5,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5277777777777778,0.42424242424242425,-0.10353535353535354
+6,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5148514851485149,0.48366013071895425,-0.031191354429560614
+7,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5390070921985816,0.42038216560509556,-0.118624926593486
+8,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.528,0.5180722891566265,-0.009927710843373516
+9,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.7,0.7253886010362695,0.025388601036269498
+10,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.4626865671641791,0.5536723163841808,0.09098574922000169
+11,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.6447368421052632,0.6733668341708543,0.028629992065591137
+12,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.583941605839416,0.6914893617021277,0.1075477558627117
+13,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.38181818181818183,0.5748502994011976,0.19303211758301575
+14,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.4748201438848921,0.4217687074829932,-0.053051436401898855
+15,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.45454545454545453,0.55,0.09545454545454551
+16,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.49572649572649574,0.5625,0.06677350427350426
+17,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.47706422018348627,0.5837837837837838,0.10671956360029755
+18,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.44776119402985076,0.5490196078431373,0.10125841381328654
+19,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5333333333333333,0.5,-0.033333333333333326
+20,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5764705882352941,0.7301587301587301,0.15368814192343605
+21,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.556390977443609,0.567741935483871,0.011350958040261983
+22,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.48,0.4732824427480916,-0.006717557251908368
+23,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.3902439024390244,0.5780346820809249,0.1877907796419005
+24,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.4827586206896552,0.45454545454545453,-0.028213166144200663
+25,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5857142857142857,0.5828571428571429,-0.0028571428571428914
+26,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.46551724137931033,0.6222222222222222,0.1567049808429119
+27,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.5960264900662252,0.6265060240963856,0.03047953403016035
+28,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.4925373134328358,0.6257668711656442,0.13322955773280842
+29,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.25,0.5149700598802395,0.2649700598802395
+30,random_forest,f1_1,Baseline,Structural / Constraint Signals,0.6451612903225806,0.5714285714285714,-0.07373271889400923
+1,random_forest,f1_1,Baseline,All Prompt Risk Features,0.49572649572649574,0.5166666666666667,0.020940170940170977
+2,random_forest,f1_1,Baseline,All Prompt Risk Features,0.46601941747572817,0.32,-0.14601941747572816
+3,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5277777777777778,0.34615384615384615,-0.18162393162393164
+4,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5467625899280576,0.43333333333333335,-0.11342925659472425
+5,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5277777777777778,0.45454545454545453,-0.07323232323232326
+6,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5148514851485149,0.42696629213483145,-0.08788519301368342
+7,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5390070921985816,0.6495726495726496,0.11056555737406804
+8,random_forest,f1_1,Baseline,All Prompt Risk Features,0.528,0.4647887323943662,-0.06321126760563384
+9,random_forest,f1_1,Baseline,All Prompt Risk Features,0.7,0.5957446808510638,-0.10425531914893615
+10,random_forest,f1_1,Baseline,All Prompt Risk Features,0.4626865671641791,0.3185840707964602,-0.14410249636771894
+11,random_forest,f1_1,Baseline,All Prompt Risk Features,0.6447368421052632,0.5185185185185185,-0.12621832358674467
+12,random_forest,f1_1,Baseline,All Prompt Risk Features,0.583941605839416,0.22916666666666666,-0.3547749391727494
+13,random_forest,f1_1,Baseline,All Prompt Risk Features,0.38181818181818183,0.5777777777777777,0.1959595959595959
+14,random_forest,f1_1,Baseline,All Prompt Risk Features,0.4748201438848921,0.42718446601941745,-0.047635677865474624
+15,random_forest,f1_1,Baseline,All Prompt Risk Features,0.45454545454545453,0.4714285714285714,0.01688311688311689
+16,random_forest,f1_1,Baseline,All Prompt Risk Features,0.49572649572649574,0.43333333333333335,-0.062393162393162394
+17,random_forest,f1_1,Baseline,All Prompt Risk Features,0.47706422018348627,0.4036697247706422,-0.07339449541284404
+18,random_forest,f1_1,Baseline,All Prompt Risk Features,0.44776119402985076,0.3225806451612903,-0.12518054886856045
+19,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5333333333333333,0.5806451612903226,0.047311827956989294
+20,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5764705882352941,0.5116279069767442,-0.06484268125854986
+21,random_forest,f1_1,Baseline,All Prompt Risk Features,0.556390977443609,0.5217391304347826,-0.0346518470088264
+22,random_forest,f1_1,Baseline,All Prompt Risk Features,0.48,0.4144144144144144,-0.06558558558558558
+23,random_forest,f1_1,Baseline,All Prompt Risk Features,0.3902439024390244,0.49624060150375937,0.10599669906473497
+24,random_forest,f1_1,Baseline,All Prompt Risk Features,0.4827586206896552,0.5614035087719298,0.0786448880822746
+25,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5857142857142857,0.5035971223021583,-0.08211716341212749
+26,random_forest,f1_1,Baseline,All Prompt Risk Features,0.46551724137931033,0.45714285714285713,-0.008374384236453203
+27,random_forest,f1_1,Baseline,All Prompt Risk Features,0.5960264900662252,0.4307692307692308,-0.16525725929699442
+28,random_forest,f1_1,Baseline,All Prompt Risk Features,0.4925373134328358,0.5203252032520326,0.027787889819196776
+29,random_forest,f1_1,Baseline,All Prompt Risk Features,0.25,0.35514018691588783,0.10514018691588783
+30,random_forest,f1_1,Baseline,All Prompt Risk Features,0.6451612903225806,0.5735294117647058,-0.07163187855787478
+1,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.49572649572649574,0.5737704918032787,0.07804399607678292
+2,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.46601941747572817,0.29357798165137616,-0.172441435824352
+3,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5277777777777778,0.46956521739130436,-0.05821256038647343
+4,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5467625899280576,0.46017699115044247,-0.08658559877761512
+5,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5277777777777778,0.4153846153846154,-0.11239316239316238
+6,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5148514851485149,0.46153846153846156,-0.0533130236100533
+7,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5390070921985816,0.5042016806722689,-0.03480541152631267
+8,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.528,0.4864864864864865,-0.04151351351351351
+9,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.7,0.5413533834586466,-0.15864661654135337
+10,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4626865671641791,0.3620689655172414,-0.10061760164693773
+11,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.6447368421052632,0.4461538461538462,-0.19858299595141699
+12,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.583941605839416,0.49122807017543857,-0.09271353566397744
+13,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.38181818181818183,0.5555555555555556,0.17373737373737375
+14,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4748201438848921,0.5,0.025179856115107924
+15,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.45454545454545453,0.5547445255474452,0.10019907100199071
+16,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.49572649572649574,0.5,0.004273504273504258
+17,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.47706422018348627,0.41509433962264153,-0.06196988056084474
+18,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.44776119402985076,0.3925233644859813,-0.055237829543869466
+19,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5333333333333333,0.6218487394957983,0.088515406162465
+20,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5764705882352941,0.6111111111111112,0.03464052287581709
+21,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.556390977443609,0.45614035087719296,-0.10025062656641603
+22,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.48,0.47058823529411764,-0.009411764705882342
+23,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.3902439024390244,0.5606060606060606,0.17036215816703615
+24,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4827586206896552,0.6153846153846154,0.13262599469496023
+25,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5857142857142857,0.5466666666666666,-0.03904761904761911
+26,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.46551724137931033,0.6111111111111112,0.14559386973180083
+27,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.5960264900662252,0.5142857142857142,-0.08174077578051098
+28,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.4925373134328358,0.6212121212121212,0.12867480777928542
+29,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.25,0.40350877192982454,0.15350877192982454
+30,random_forest,f1_1,Baseline,Baseline + All Prompt Risk Features,0.6451612903225806,0.448,-0.19716129032258062

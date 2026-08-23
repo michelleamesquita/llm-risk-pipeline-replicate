@@ -1,0 +1,12 @@
+{
+  "n_artifacts_found": 680,
+  "benchmark_repeats": 3000,
+  "seed": 42,
+  "training_time_included": false,
+  "git_time_included": false,
+  "bandit_time_included": false,
+  "compute_only_definition": "patch text already in memory -> patch parse -> assemble 33-feature vector -> trained imputer/scaler/LR score",
+  "with_patch_read_definition": "local patch file read -> patch parse -> assemble 33-feature vector -> trained imputer/scaler/LR score",
+  "pre_generation_cached_features": "problem-statement features, prompt-envelope base information, and model identity",
+  "note": "Before publication, inspect patch_feature_validation_summary.csv. If frozen patch features are not reproduced closely/exactly, align the parser definition with the original extractor and rerun."
+}

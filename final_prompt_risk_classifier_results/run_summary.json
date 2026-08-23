@@ -1,0 +1,47 @@
+{
+  "rows": 680,
+  "unique_cases": 170,
+  "positive": 314,
+  "negative": 366,
+  "runs": 30,
+  "split": "80/20 GroupShuffleSplit; grouped by case",
+  "baseline": {
+    "numeric": [
+      "ps_words"
+    ],
+    "categorical": [
+      "model"
+    ]
+  },
+  "feature_groups": {
+    "Sensitive Operation": [
+      "ps_domain_explicit_security",
+      "ps_security_relevant_domain_count",
+      "ps_domain_database",
+      "ps_domain_command_exec",
+      "ps_domain_auth",
+      "ps_domain_permissions"
+    ],
+    "Technical Specificity": [
+      "ps_identifier_density",
+      "ps_numeric_density"
+    ],
+    "Structural / Constraint Signals": [
+      "ps_bullet_count",
+      "ps_constraint_count"
+    ],
+    "All Prompt Risk Features": [
+      "ps_domain_explicit_security",
+      "ps_security_relevant_domain_count",
+      "ps_domain_database",
+      "ps_domain_command_exec",
+      "ps_domain_auth",
+      "ps_domain_permissions",
+      "ps_identifier_density",
+      "ps_numeric_density",
+      "ps_bullet_count",
+      "ps_constraint_count"
+    ]
+  },
+  "interpretation": "This experiment evaluates incremental predictive value of prompt-derived features. It does not establish causality."
+}

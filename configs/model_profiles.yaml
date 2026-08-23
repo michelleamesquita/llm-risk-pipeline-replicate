@@ -1,0 +1,53 @@
+# Protocolo experimental — prompt e limite de saída comuns aos endpoints.
+#
+# Regra:
+# - mesmo prompt;
+# - mesmo limite máximo de saída: 1800 tokens;
+# - controles de amostragem específicos devem ser registrados no metadata;
+# - o perfil CodeLlama usa temperature baixa para reduzir alucinações de diff.
+#
+# Cada endpoint usa apenas os controles obrigatórios/compatíveis necessários.
+# A configuração efetiva deve ser registrada no metadata.
+
+default:
+  engine: replicate
+  max_output_tokens: 1800
+
+gpt-4o:
+  engine: replicate
+  display_name: GPT-4o
+  replicate_model: openai/gpt-4o
+  run_dir: gpt-4o_backup
+  schema: gpt4o
+  max_output_tokens: 1800
+
+claude:
+  engine: replicate
+  display_name: Claude Sonnet 4
+  replicate_model: anthropic/claude-4-sonnet
+  run_dir: claud-sonnet_backup
+  schema: claude4
+  max_output_tokens: 1800
+
+deepseek:
+  engine: replicate
+  display_name: DeepSeek V3
+  replicate_model: deepseek-ai/deepseek-v3
+  run_dir: deepseek_backup
+  schema: deepseekv3
+  max_output_tokens: 1800
+  use_stream: false
+  # temperature/top_p/top_k deliberadamente omitidos.
+
+codellama-tuned:
+  engine: replicate
+  display_name: CodeLlama-34B Tuned
+  replicate_model: meta/codellama-34b-instruct:eeb928567781f4e90d2aba57a51baef235de53f907c214a4ab42adabf5bb9736
+  run_dir: codellama_tuned_backup
+  schema: codellama7
+  max_output_tokens: 1800
+  tuned: true
+  temperature: 0.2
+  requested_temperature: 0.2
+  effective_temperature: 0.2
+  # top_p/top_k permanecem nos defaults documentados do endpoint.

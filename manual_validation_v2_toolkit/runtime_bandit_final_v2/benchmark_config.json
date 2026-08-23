@@ -1,0 +1,11 @@
+{
+  "bandit_version": "bandit 1.7.5\n  python version = 3.11.15 (main, Mar  3 2026, 00:52:57) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "bandit_scan": "recursive_repo",
+  "bandit_exclude": "",
+  "target_successful_repos_per_model": 10,
+  "repeats_per_repo": 5,
+  "warmup_per_repo": 1,
+  "warmup_included_in_stats": false,
+  "clone_checkout_patch_apply_included_in_bandit_time": false,
+  "seed": 42
+}

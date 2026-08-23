@@ -1,0 +1,18 @@
+{
+  "task": "post-generation / pre-SAST triage",
+  "rows": 680,
+  "cases": 170,
+  "features": 33,
+  "n_runs": 30,
+  "outer_split": "GroupShuffleSplit grouped by case",
+  "inner_threshold_selection": "5-fold StratifiedGroupKFold on outer-train",
+  "target": "has_finding_after",
+  "thresholds_learned_without_outer_test": true,
+  "feature_matrix_build_ms_total": 6.29429193213582,
+  "feature_matrix_build_ms_per_row_in_memory": 0.009256311664905618,
+  "runtime_input_used": false,
+  "interpretation": {
+    "prioritization": "top-k policies measure how many Bandit-positive patches appear in the immediate review/SAST queue. This does not claim total SAST cost reduction.",
+    "selective_analysis": "threshold policies can simulate SAST avoidance, but misses must be reported explicitly."
+  }
+}

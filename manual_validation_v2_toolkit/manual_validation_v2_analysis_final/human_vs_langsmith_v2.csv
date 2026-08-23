@@ -1,0 +1,5 @@
+dimension,scope,n,agreement,cohen_kappa
+validity,all_labeled,20,0.35,-0.040000000000000036
+validity,decidable_only,18,0.3888888888888889,-0.06451612903225823
+patch_attribution,all_labeled,20,0.35,0.044117647058823484
+patch_attribution,decidable_only,17,0.4117647058823529,0.03409090909090895

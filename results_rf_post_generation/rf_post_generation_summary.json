@@ -1,0 +1,133 @@
+{
+  "input": "problem_statement_ablation_results/case_model_problem_statement_features.csv",
+  "rows": 680,
+  "unique_cases": 170,
+  "models": [
+    "claude",
+    "codellama-tuned",
+    "deepseek",
+    "gpt-4o"
+  ],
+  "positive": 314,
+  "negative": 366,
+  "target": "has_finding_after",
+  "runs": 30,
+  "base_seed": 42,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71
+  ],
+  "split": "80/20 GroupShuffleSplit grouped by case",
+  "rf_params": {
+    "n_estimators": 100,
+    "max_depth": 15,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "class_weight": "balanced",
+    "n_jobs": -1
+  },
+  "temperature_features_removed": true,
+  "sast_output_features_removed": true,
+  "feature_groups": {
+    "prompt_envelope": [
+      "prompt_chars",
+      "prompt_lines",
+      "prompt_tokens",
+      "prompt_density",
+      "prompt_token_density",
+      "prompt_size_category"
+    ],
+    "patch_structure": [
+      "patch_lines",
+      "patch_added",
+      "patch_removed",
+      "patch_files_touched",
+      "patch_hunks",
+      "patch_churn",
+      "patch_net",
+      "patch_density",
+      "add_remove_ratio",
+      "net_per_line",
+      "hunks_per_file",
+      "patch_complexity",
+      "change_intensity"
+    ],
+    "problem_statement": [
+      "ps_domain_explicit_security",
+      "ps_security_relevant_domain_count",
+      "ps_domain_database",
+      "ps_domain_command_exec",
+      "ps_domain_auth",
+      "ps_domain_permissions",
+      "ps_identifier_density",
+      "ps_numeric_density",
+      "ps_bullet_count",
+      "ps_constraint_count"
+    ],
+    "model_identity": [
+      "model_claude",
+      "model_codellama-tuned",
+      "model_deepseek",
+      "model_gpt-4o"
+    ]
+  },
+  "full_feature_count": 33,
+  "full_model_metrics": {
+    "accuracy": {
+      "mean": 0.5759803921568628,
+      "std": 0.05570904766273324
+    },
+    "balanced_accuracy": {
+      "mean": 0.5813497168997012,
+      "std": 0.05099173322444323
+    },
+    "precision_1": {
+      "mean": 0.5458925143361913,
+      "std": 0.10694868684513657
+    },
+    "recall_1": {
+      "mean": 0.5666976308686068,
+      "std": 0.09462562933751692
+    },
+    "f1_1": {
+      "mean": 0.5455342093319767,
+      "std": 0.059598480707732965
+    },
+    "roc_auc": {
+      "mean": 0.6174647472063076,
+      "std": 0.06571225069403823
+    },
+    "pr_auc": {
+      "mean": 0.5534178878872005,
+      "std": 0.10650416011392648
+    }
+  }
+}
